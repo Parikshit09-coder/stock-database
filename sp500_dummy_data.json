@@ -1,0 +1,7002 @@
+[
+  {
+    "companyName": "Apple Inc. 1",
+    "ticker": "AAP001",
+    "currentPrice": 489.5,
+    "percentChange1D": -3.38,
+    "sparkline": [
+      489.14,
+      489.75,
+      488.08,
+      490.75,
+      489.49,
+      489.99
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 2",
+    "ticker": "MSF002",
+    "currentPrice": 178.37,
+    "percentChange1D": 0.08,
+    "sparkline": [
+      176.96,
+      180.35,
+      179.52,
+      179.98,
+      179.56,
+      176.49
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 3",
+    "ticker": "AMZ003",
+    "currentPrice": 224.84,
+    "percentChange1D": -1.59,
+    "sparkline": [
+      223.03,
+      223.96,
+      224.9,
+      226.09,
+      225.43,
+      226.54
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 4",
+    "ticker": "GOO004",
+    "currentPrice": 478.28,
+    "percentChange1D": -0.33,
+    "sparkline": [
+      477.44,
+      476.93,
+      477.79,
+      476.49,
+      479.0,
+      477.76
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 5",
+    "ticker": "MET005",
+    "currentPrice": 56.94,
+    "percentChange1D": -4.07,
+    "sparkline": [
+      55.43,
+      55.51,
+      55.86,
+      57.37,
+      55.82,
+      57.92
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 6",
+    "ticker": "TSL006",
+    "currentPrice": 63.39,
+    "percentChange1D": -2.08,
+    "sparkline": [
+      62.05,
+      63.46,
+      62.62,
+      65.33,
+      61.48,
+      62.02
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 7",
+    "ticker": "NVD007",
+    "currentPrice": 62.63,
+    "percentChange1D": -1.76,
+    "sparkline": [
+      61.83,
+      62.6,
+      60.99,
+      61.82,
+      61.9,
+      62.45
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 8",
+    "ticker": "BRK008",
+    "currentPrice": 282.62,
+    "percentChange1D": -0.45,
+    "sparkline": [
+      281.3,
+      282.03,
+      282.95,
+      280.71,
+      280.86,
+      283.64
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 9",
+    "ticker": "JPM009",
+    "currentPrice": 369.26,
+    "percentChange1D": 4.13,
+    "sparkline": [
+      370.68,
+      370.97,
+      370.28,
+      370.63,
+      369.73,
+      367.69
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 10",
+    "ticker": "JNJ010",
+    "currentPrice": 423.31,
+    "percentChange1D": 3.79,
+    "sparkline": [
+      422.09,
+      421.74,
+      423.89,
+      425.29,
+      422.75,
+      423.23
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 11",
+    "ticker": "AAP011",
+    "currentPrice": 445.17,
+    "percentChange1D": 3.78,
+    "sparkline": [
+      443.24,
+      446.91,
+      443.9,
+      446.14,
+      444.68,
+      444.33
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 12",
+    "ticker": "MSF012",
+    "currentPrice": 263.5,
+    "percentChange1D": 0.63,
+    "sparkline": [
+      264.54,
+      264.24,
+      264.07,
+      262.83,
+      265.38,
+      264.46
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 13",
+    "ticker": "AMZ013",
+    "currentPrice": 114.94,
+    "percentChange1D": 1.81,
+    "sparkline": [
+      114.27,
+      115.32,
+      114.41,
+      113.41,
+      115.6,
+      113.79
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 14",
+    "ticker": "GOO014",
+    "currentPrice": 302.38,
+    "percentChange1D": 1.76,
+    "sparkline": [
+      302.17,
+      303.11,
+      303.92,
+      301.14,
+      302.84,
+      300.46
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 15",
+    "ticker": "MET015",
+    "currentPrice": 318.76,
+    "percentChange1D": 3.55,
+    "sparkline": [
+      318.76,
+      320.61,
+      317.0,
+      317.19,
+      317.45,
+      317.75
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 16",
+    "ticker": "TSL016",
+    "currentPrice": 485.04,
+    "percentChange1D": 4.9,
+    "sparkline": [
+      485.32,
+      483.78,
+      486.37,
+      486.56,
+      485.7,
+      485.11
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 17",
+    "ticker": "NVD017",
+    "currentPrice": 482.19,
+    "percentChange1D": 4.86,
+    "sparkline": [
+      481.2,
+      480.23,
+      481.34,
+      482.57,
+      483.29,
+      482.06
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 18",
+    "ticker": "BRK018",
+    "currentPrice": 224.27,
+    "percentChange1D": 1.01,
+    "sparkline": [
+      224.36,
+      225.14,
+      224.52,
+      225.11,
+      225.28,
+      222.53
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 19",
+    "ticker": "JPM019",
+    "currentPrice": 335.87,
+    "percentChange1D": -2.61,
+    "sparkline": [
+      335.57,
+      337.56,
+      336.29,
+      336.45,
+      337.14,
+      335.0
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 20",
+    "ticker": "JNJ020",
+    "currentPrice": 238.82,
+    "percentChange1D": 4.39,
+    "sparkline": [
+      239.28,
+      240.39,
+      237.76,
+      239.37,
+      238.86,
+      238.04
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 21",
+    "ticker": "AAP021",
+    "currentPrice": 189.56,
+    "percentChange1D": -2.88,
+    "sparkline": [
+      190.46,
+      190.53,
+      189.92,
+      190.75,
+      191.14,
+      188.15
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 22",
+    "ticker": "MSF022",
+    "currentPrice": 499.68,
+    "percentChange1D": -3.09,
+    "sparkline": [
+      501.64,
+      500.5,
+      499.94,
+      501.51,
+      498.72,
+      498.03
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 23",
+    "ticker": "AMZ023",
+    "currentPrice": 490.98,
+    "percentChange1D": 2.0,
+    "sparkline": [
+      492.56,
+      490.98,
+      492.43,
+      489.18,
+      490.28,
+      492.29
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 24",
+    "ticker": "GOO024",
+    "currentPrice": 377.8,
+    "percentChange1D": 4.87,
+    "sparkline": [
+      377.18,
+      377.61,
+      379.29,
+      377.25,
+      378.84,
+      379.2
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 25",
+    "ticker": "MET025",
+    "currentPrice": 203.3,
+    "percentChange1D": 0.97,
+    "sparkline": [
+      201.39,
+      201.56,
+      202.24,
+      205.17,
+      205.13,
+      203.04
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 26",
+    "ticker": "TSL026",
+    "currentPrice": 50.51,
+    "percentChange1D": -1.23,
+    "sparkline": [
+      51.01,
+      51.54,
+      51.38,
+      52.31,
+      52.46,
+      52.06
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 27",
+    "ticker": "NVD027",
+    "currentPrice": 291.43,
+    "percentChange1D": 4.06,
+    "sparkline": [
+      292.36,
+      292.71,
+      293.18,
+      292.13,
+      290.42,
+      292.81
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 28",
+    "ticker": "BRK028",
+    "currentPrice": 157.28,
+    "percentChange1D": -3.13,
+    "sparkline": [
+      155.69,
+      159.2,
+      157.29,
+      158.87,
+      156.09,
+      158.39
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 29",
+    "ticker": "JPM029",
+    "currentPrice": 177.74,
+    "percentChange1D": 0.15,
+    "sparkline": [
+      176.9,
+      179.24,
+      177.67,
+      179.47,
+      178.07,
+      179.37
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 30",
+    "ticker": "JNJ030",
+    "currentPrice": 362.31,
+    "percentChange1D": -3.26,
+    "sparkline": [
+      363.46,
+      361.39,
+      362.08,
+      363.03,
+      364.28,
+      363.05
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 31",
+    "ticker": "AAP031",
+    "currentPrice": 318.65,
+    "percentChange1D": 4.81,
+    "sparkline": [
+      319.63,
+      320.52,
+      319.73,
+      319.99,
+      317.63,
+      318.94
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 32",
+    "ticker": "MSF032",
+    "currentPrice": 99.08,
+    "percentChange1D": -2.01,
+    "sparkline": [
+      97.24,
+      99.91,
+      99.61,
+      99.93,
+      99.8,
+      99.56
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 33",
+    "ticker": "AMZ033",
+    "currentPrice": 330.91,
+    "percentChange1D": -2.89,
+    "sparkline": [
+      332.67,
+      330.27,
+      332.02,
+      331.81,
+      330.53,
+      331.03
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 34",
+    "ticker": "GOO034",
+    "currentPrice": 413.8,
+    "percentChange1D": 4.68,
+    "sparkline": [
+      414.08,
+      414.15,
+      412.91,
+      415.29,
+      413.02,
+      414.78
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 35",
+    "ticker": "MET035",
+    "currentPrice": 186.82,
+    "percentChange1D": -4.07,
+    "sparkline": [
+      186.11,
+      186.18,
+      185.11,
+      186.89,
+      185.06,
+      186.83
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 36",
+    "ticker": "TSL036",
+    "currentPrice": 90.25,
+    "percentChange1D": 2.93,
+    "sparkline": [
+      91.41,
+      90.32,
+      91.19,
+      90.91,
+      91.5,
+      91.21
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 37",
+    "ticker": "NVD037",
+    "currentPrice": 306.76,
+    "percentChange1D": -3.75,
+    "sparkline": [
+      307.09,
+      305.08,
+      306.7,
+      308.03,
+      307.98,
+      307.57
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 38",
+    "ticker": "BRK038",
+    "currentPrice": 370.85,
+    "percentChange1D": -3.33,
+    "sparkline": [
+      370.51,
+      372.36,
+      371.63,
+      370.99,
+      372.45,
+      372.04
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 39",
+    "ticker": "JPM039",
+    "currentPrice": 346.0,
+    "percentChange1D": 2.57,
+    "sparkline": [
+      347.96,
+      344.65,
+      347.84,
+      345.41,
+      344.79,
+      344.37
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 40",
+    "ticker": "JNJ040",
+    "currentPrice": 390.71,
+    "percentChange1D": -4.53,
+    "sparkline": [
+      391.62,
+      388.74,
+      392.08,
+      390.14,
+      392.05,
+      391.86
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 41",
+    "ticker": "AAP041",
+    "currentPrice": 208.04,
+    "percentChange1D": -2.03,
+    "sparkline": [
+      208.48,
+      206.83,
+      209.35,
+      209.31,
+      209.88,
+      206.49
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 42",
+    "ticker": "MSF042",
+    "currentPrice": 439.98,
+    "percentChange1D": -2.42,
+    "sparkline": [
+      438.89,
+      439.6,
+      439.76,
+      440.82,
+      438.59,
+      441.36
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 43",
+    "ticker": "AMZ043",
+    "currentPrice": 397.42,
+    "percentChange1D": -0.93,
+    "sparkline": [
+      397.48,
+      399.02,
+      396.72,
+      397.72,
+      396.01,
+      396.54
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 44",
+    "ticker": "GOO044",
+    "currentPrice": 142.25,
+    "percentChange1D": 3.8,
+    "sparkline": [
+      141.88,
+      142.5,
+      140.58,
+      144.23,
+      143.67,
+      140.72
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 45",
+    "ticker": "MET045",
+    "currentPrice": 434.87,
+    "percentChange1D": 3.19,
+    "sparkline": [
+      435.93,
+      436.85,
+      433.25,
+      436.18,
+      435.97,
+      433.95
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 46",
+    "ticker": "TSL046",
+    "currentPrice": 364.56,
+    "percentChange1D": -4.98,
+    "sparkline": [
+      366.48,
+      364.57,
+      364.77,
+      365.76,
+      363.84,
+      364.16
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 47",
+    "ticker": "NVD047",
+    "currentPrice": 203.71,
+    "percentChange1D": 4.61,
+    "sparkline": [
+      203.67,
+      204.63,
+      203.14,
+      201.75,
+      205.17,
+      202.26
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 48",
+    "ticker": "BRK048",
+    "currentPrice": 464.72,
+    "percentChange1D": 0.2,
+    "sparkline": [
+      466.48,
+      466.66,
+      463.29,
+      462.91,
+      464.23,
+      464.81
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 49",
+    "ticker": "JPM049",
+    "currentPrice": 382.77,
+    "percentChange1D": 2.11,
+    "sparkline": [
+      381.75,
+      384.1,
+      384.28,
+      381.28,
+      384.22,
+      381.07
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 50",
+    "ticker": "JNJ050",
+    "currentPrice": 161.03,
+    "percentChange1D": 0.66,
+    "sparkline": [
+      160.57,
+      161.77,
+      162.33,
+      161.73,
+      160.75,
+      159.14
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 51",
+    "ticker": "AAP051",
+    "currentPrice": 250.89,
+    "percentChange1D": 4.98,
+    "sparkline": [
+      250.37,
+      250.27,
+      249.8,
+      249.52,
+      252.53,
+      249.84
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 52",
+    "ticker": "MSF052",
+    "currentPrice": 231.91,
+    "percentChange1D": -0.73,
+    "sparkline": [
+      233.6,
+      230.1,
+      231.65,
+      232.1,
+      233.23,
+      233.88
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 53",
+    "ticker": "AMZ053",
+    "currentPrice": 111.27,
+    "percentChange1D": 1.05,
+    "sparkline": [
+      110.13,
+      112.24,
+      111.09,
+      110.84,
+      111.29,
+      112.83
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 54",
+    "ticker": "GOO054",
+    "currentPrice": 139.88,
+    "percentChange1D": -1.71,
+    "sparkline": [
+      138.68,
+      140.77,
+      140.95,
+      138.55,
+      140.12,
+      138.91
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 55",
+    "ticker": "MET055",
+    "currentPrice": 91.79,
+    "percentChange1D": -2.43,
+    "sparkline": [
+      91.88,
+      90.25,
+      93.22,
+      92.3,
+      91.66,
+      90.51
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 56",
+    "ticker": "TSL056",
+    "currentPrice": 257.14,
+    "percentChange1D": 2.65,
+    "sparkline": [
+      259.13,
+      258.69,
+      257.38,
+      258.92,
+      255.55,
+      256.89
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 57",
+    "ticker": "NVD057",
+    "currentPrice": 400.26,
+    "percentChange1D": -3.4,
+    "sparkline": [
+      401.95,
+      401.35,
+      400.96,
+      400.81,
+      398.34,
+      401.73
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 58",
+    "ticker": "BRK058",
+    "currentPrice": 325.01,
+    "percentChange1D": 4.72,
+    "sparkline": [
+      325.25,
+      323.87,
+      325.26,
+      324.75,
+      326.59,
+      324.09
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 59",
+    "ticker": "JPM059",
+    "currentPrice": 57.9,
+    "percentChange1D": 3.38,
+    "sparkline": [
+      56.45,
+      59.19,
+      56.8,
+      59.83,
+      57.08,
+      57.81
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 60",
+    "ticker": "JNJ060",
+    "currentPrice": 226.95,
+    "percentChange1D": -2.34,
+    "sparkline": [
+      225.6,
+      224.96,
+      226.23,
+      228.16,
+      227.63,
+      226.83
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 61",
+    "ticker": "AAP061",
+    "currentPrice": 162.59,
+    "percentChange1D": 1.35,
+    "sparkline": [
+      162.53,
+      160.95,
+      162.14,
+      162.36,
+      164.13,
+      160.74
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 62",
+    "ticker": "MSF062",
+    "currentPrice": 483.41,
+    "percentChange1D": -2.45,
+    "sparkline": [
+      483.12,
+      484.58,
+      483.14,
+      483.42,
+      484.32,
+      483.35
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 63",
+    "ticker": "AMZ063",
+    "currentPrice": 118.53,
+    "percentChange1D": 0.16,
+    "sparkline": [
+      119.28,
+      120.45,
+      119.59,
+      117.54,
+      117.76,
+      118.37
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 64",
+    "ticker": "GOO064",
+    "currentPrice": 334.91,
+    "percentChange1D": 3.1,
+    "sparkline": [
+      336.8,
+      334.63,
+      333.91,
+      335.6,
+      333.32,
+      335.0
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 65",
+    "ticker": "MET065",
+    "currentPrice": 98.28,
+    "percentChange1D": 2.93,
+    "sparkline": [
+      99.96,
+      97.42,
+      100.23,
+      99.52,
+      96.46,
+      99.86
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 66",
+    "ticker": "TSL066",
+    "currentPrice": 188.61,
+    "percentChange1D": 1.44,
+    "sparkline": [
+      190.32,
+      188.96,
+      189.54,
+      188.0,
+      186.97,
+      187.49
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 67",
+    "ticker": "NVD067",
+    "currentPrice": 380.36,
+    "percentChange1D": 4.84,
+    "sparkline": [
+      378.92,
+      381.72,
+      382.23,
+      379.73,
+      379.17,
+      382.21
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 68",
+    "ticker": "BRK068",
+    "currentPrice": 316.89,
+    "percentChange1D": -0.39,
+    "sparkline": [
+      318.27,
+      318.84,
+      316.09,
+      315.01,
+      318.46,
+      316.37
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 69",
+    "ticker": "JPM069",
+    "currentPrice": 401.34,
+    "percentChange1D": 1.97,
+    "sparkline": [
+      402.88,
+      401.7,
+      402.97,
+      399.89,
+      400.28,
+      400.37
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 70",
+    "ticker": "JNJ070",
+    "currentPrice": 208.33,
+    "percentChange1D": -1.3,
+    "sparkline": [
+      208.12,
+      206.54,
+      208.5,
+      207.37,
+      209.5,
+      210.23
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 71",
+    "ticker": "AAP071",
+    "currentPrice": 294.75,
+    "percentChange1D": 1.25,
+    "sparkline": [
+      295.63,
+      296.72,
+      293.28,
+      296.5,
+      293.1,
+      292.89
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 72",
+    "ticker": "MSF072",
+    "currentPrice": 222.37,
+    "percentChange1D": 3.73,
+    "sparkline": [
+      222.44,
+      221.46,
+      222.79,
+      224.12,
+      223.97,
+      220.6
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 73",
+    "ticker": "AMZ073",
+    "currentPrice": 265.64,
+    "percentChange1D": 0.51,
+    "sparkline": [
+      263.92,
+      264.33,
+      266.32,
+      266.76,
+      264.6,
+      267.05
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 74",
+    "ticker": "GOO074",
+    "currentPrice": 375.87,
+    "percentChange1D": -4.33,
+    "sparkline": [
+      377.11,
+      376.91,
+      375.52,
+      373.98,
+      376.67,
+      377.59
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 75",
+    "ticker": "MET075",
+    "currentPrice": 206.95,
+    "percentChange1D": -3.72,
+    "sparkline": [
+      207.64,
+      207.41,
+      208.38,
+      207.08,
+      207.94,
+      207.71
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 76",
+    "ticker": "TSL076",
+    "currentPrice": 97.17,
+    "percentChange1D": -3.39,
+    "sparkline": [
+      95.85,
+      95.4,
+      96.52,
+      97.36,
+      96.41,
+      99.1
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 77",
+    "ticker": "NVD077",
+    "currentPrice": 336.64,
+    "percentChange1D": 3.14,
+    "sparkline": [
+      337.95,
+      335.84,
+      335.12,
+      336.41,
+      337.79,
+      337.24
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 78",
+    "ticker": "BRK078",
+    "currentPrice": 67.83,
+    "percentChange1D": 0.36,
+    "sparkline": [
+      69.3,
+      66.15,
+      66.41,
+      67.13,
+      68.27,
+      68.43
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 79",
+    "ticker": "JPM079",
+    "currentPrice": 427.41,
+    "percentChange1D": 3.63,
+    "sparkline": [
+      427.46,
+      429.41,
+      425.97,
+      426.62,
+      428.17,
+      426.77
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 80",
+    "ticker": "JNJ080",
+    "currentPrice": 100.61,
+    "percentChange1D": 1.66,
+    "sparkline": [
+      101.83,
+      102.42,
+      98.75,
+      100.63,
+      102.05,
+      99.72
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 81",
+    "ticker": "AAP081",
+    "currentPrice": 107.73,
+    "percentChange1D": -2.03,
+    "sparkline": [
+      106.03,
+      108.27,
+      109.64,
+      106.99,
+      107.31,
+      106.43
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 82",
+    "ticker": "MSF082",
+    "currentPrice": 244.58,
+    "percentChange1D": 4.18,
+    "sparkline": [
+      243.59,
+      244.75,
+      245.17,
+      244.6,
+      244.5,
+      246.13
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 83",
+    "ticker": "AMZ083",
+    "currentPrice": 221.17,
+    "percentChange1D": -1.64,
+    "sparkline": [
+      220.14,
+      222.52,
+      220.8,
+      222.34,
+      219.49,
+      222.37
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 84",
+    "ticker": "GOO084",
+    "currentPrice": 389.23,
+    "percentChange1D": 2.03,
+    "sparkline": [
+      390.97,
+      387.34,
+      391.13,
+      387.61,
+      389.18,
+      388.66
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 85",
+    "ticker": "MET085",
+    "currentPrice": 223.97,
+    "percentChange1D": -0.37,
+    "sparkline": [
+      223.02,
+      222.24,
+      223.0,
+      224.23,
+      225.87,
+      222.75
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 86",
+    "ticker": "TSL086",
+    "currentPrice": 365.57,
+    "percentChange1D": 1.92,
+    "sparkline": [
+      364.33,
+      365.78,
+      365.65,
+      367.42,
+      363.99,
+      366.9
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 87",
+    "ticker": "NVD087",
+    "currentPrice": 90.91,
+    "percentChange1D": 0.71,
+    "sparkline": [
+      91.93,
+      91.91,
+      89.82,
+      91.96,
+      90.09,
+      92.1
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 88",
+    "ticker": "BRK088",
+    "currentPrice": 418.76,
+    "percentChange1D": 2.6,
+    "sparkline": [
+      418.66,
+      418.48,
+      419.26,
+      418.51,
+      419.44,
+      419.32
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 89",
+    "ticker": "JPM089",
+    "currentPrice": 257.14,
+    "percentChange1D": -2.98,
+    "sparkline": [
+      257.27,
+      256.64,
+      256.1,
+      257.84,
+      257.46,
+      257.63
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 90",
+    "ticker": "JNJ090",
+    "currentPrice": 253.65,
+    "percentChange1D": 4.24,
+    "sparkline": [
+      252.93,
+      254.12,
+      252.59,
+      252.0,
+      251.89,
+      252.54
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 91",
+    "ticker": "AAP091",
+    "currentPrice": 250.22,
+    "percentChange1D": 4.89,
+    "sparkline": [
+      251.37,
+      251.22,
+      250.69,
+      251.7,
+      250.95,
+      252.15
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 92",
+    "ticker": "MSF092",
+    "currentPrice": 206.38,
+    "percentChange1D": 3.29,
+    "sparkline": [
+      204.39,
+      206.42,
+      207.45,
+      204.73,
+      208.34,
+      207.72
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 93",
+    "ticker": "AMZ093",
+    "currentPrice": 470.26,
+    "percentChange1D": 3.61,
+    "sparkline": [
+      470.58,
+      468.28,
+      469.02,
+      471.55,
+      471.62,
+      468.69
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 94",
+    "ticker": "GOO094",
+    "currentPrice": 90.21,
+    "percentChange1D": -1.23,
+    "sparkline": [
+      91.5,
+      91.86,
+      90.53,
+      88.44,
+      90.94,
+      90.15
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 95",
+    "ticker": "MET095",
+    "currentPrice": 316.98,
+    "percentChange1D": -1.4,
+    "sparkline": [
+      315.52,
+      316.88,
+      318.81,
+      317.77,
+      318.44,
+      317.24
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 96",
+    "ticker": "TSL096",
+    "currentPrice": 357.48,
+    "percentChange1D": -0.87,
+    "sparkline": [
+      357.49,
+      359.06,
+      358.53,
+      356.38,
+      355.69,
+      357.09
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 97",
+    "ticker": "NVD097",
+    "currentPrice": 104.53,
+    "percentChange1D": -3.34,
+    "sparkline": [
+      105.84,
+      103.14,
+      103.42,
+      103.11,
+      102.64,
+      104.85
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 98",
+    "ticker": "BRK098",
+    "currentPrice": 223.91,
+    "percentChange1D": 3.64,
+    "sparkline": [
+      225.71,
+      223.97,
+      223.68,
+      223.37,
+      223.86,
+      224.06
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 99",
+    "ticker": "JPM099",
+    "currentPrice": 321.21,
+    "percentChange1D": -4.95,
+    "sparkline": [
+      320.01,
+      319.37,
+      320.03,
+      319.56,
+      321.35,
+      321.02
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 100",
+    "ticker": "JNJ100",
+    "currentPrice": 352.95,
+    "percentChange1D": -0.83,
+    "sparkline": [
+      354.9,
+      351.58,
+      354.59,
+      354.87,
+      354.84,
+      351.4
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 101",
+    "ticker": "AAP101",
+    "currentPrice": 358.37,
+    "percentChange1D": -3.06,
+    "sparkline": [
+      357.39,
+      360.05,
+      358.32,
+      357.62,
+      357.84,
+      356.95
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 102",
+    "ticker": "MSF102",
+    "currentPrice": 395.73,
+    "percentChange1D": 0.83,
+    "sparkline": [
+      394.07,
+      396.49,
+      395.77,
+      394.88,
+      397.22,
+      394.08
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 103",
+    "ticker": "AMZ103",
+    "currentPrice": 240.4,
+    "percentChange1D": -2.39,
+    "sparkline": [
+      241.71,
+      241.05,
+      240.51,
+      241.93,
+      241.23,
+      241.72
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 104",
+    "ticker": "GOO104",
+    "currentPrice": 481.61,
+    "percentChange1D": 3.64,
+    "sparkline": [
+      481.31,
+      481.17,
+      479.87,
+      483.3,
+      482.06,
+      481.32
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 105",
+    "ticker": "MET105",
+    "currentPrice": 445.72,
+    "percentChange1D": 0.43,
+    "sparkline": [
+      446.38,
+      443.79,
+      444.64,
+      445.36,
+      444.71,
+      446.94
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 106",
+    "ticker": "TSL106",
+    "currentPrice": 96.61,
+    "percentChange1D": -0.45,
+    "sparkline": [
+      97.65,
+      97.91,
+      96.34,
+      95.63,
+      95.04,
+      94.9
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 107",
+    "ticker": "NVD107",
+    "currentPrice": 247.55,
+    "percentChange1D": 3.22,
+    "sparkline": [
+      247.4,
+      246.21,
+      248.81,
+      248.51,
+      248.78,
+      247.99
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 108",
+    "ticker": "BRK108",
+    "currentPrice": 453.61,
+    "percentChange1D": 0.72,
+    "sparkline": [
+      452.26,
+      452.59,
+      452.13,
+      455.47,
+      453.99,
+      453.19
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 109",
+    "ticker": "JPM109",
+    "currentPrice": 439.69,
+    "percentChange1D": -0.39,
+    "sparkline": [
+      438.48,
+      439.02,
+      440.99,
+      441.6,
+      438.82,
+      438.93
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 110",
+    "ticker": "JNJ110",
+    "currentPrice": 362.98,
+    "percentChange1D": 2.76,
+    "sparkline": [
+      363.1,
+      364.41,
+      362.01,
+      362.88,
+      364.9,
+      364.95
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 111",
+    "ticker": "AAP111",
+    "currentPrice": 167.47,
+    "percentChange1D": -4.86,
+    "sparkline": [
+      169.19,
+      166.8,
+      167.53,
+      166.28,
+      168.15,
+      165.74
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 112",
+    "ticker": "MSF112",
+    "currentPrice": 466.8,
+    "percentChange1D": -2.4,
+    "sparkline": [
+      467.85,
+      466.73,
+      465.42,
+      465.31,
+      465.76,
+      465.24
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 113",
+    "ticker": "AMZ113",
+    "currentPrice": 447.25,
+    "percentChange1D": 1.7,
+    "sparkline": [
+      448.02,
+      448.13,
+      448.37,
+      446.66,
+      446.48,
+      448.75
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 114",
+    "ticker": "GOO114",
+    "currentPrice": 92.66,
+    "percentChange1D": -4.8,
+    "sparkline": [
+      91.57,
+      93.68,
+      93.73,
+      94.22,
+      91.27,
+      91.22
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 115",
+    "ticker": "MET115",
+    "currentPrice": 208.95,
+    "percentChange1D": 4.35,
+    "sparkline": [
+      210.06,
+      209.32,
+      209.46,
+      209.27,
+      207.08,
+      210.45
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 116",
+    "ticker": "TSL116",
+    "currentPrice": 473.75,
+    "percentChange1D": 0.45,
+    "sparkline": [
+      474.35,
+      472.27,
+      475.45,
+      474.7,
+      472.04,
+      474.49
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 117",
+    "ticker": "NVD117",
+    "currentPrice": 102.75,
+    "percentChange1D": 2.63,
+    "sparkline": [
+      102.71,
+      101.32,
+      103.84,
+      104.53,
+      103.24,
+      102.86
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 118",
+    "ticker": "BRK118",
+    "currentPrice": 444.38,
+    "percentChange1D": -3.31,
+    "sparkline": [
+      443.38,
+      444.56,
+      445.15,
+      442.73,
+      446.13,
+      444.25
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 119",
+    "ticker": "JPM119",
+    "currentPrice": 141.05,
+    "percentChange1D": -4.82,
+    "sparkline": [
+      140.91,
+      141.03,
+      142.32,
+      139.25,
+      139.25,
+      142.41
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 120",
+    "ticker": "JNJ120",
+    "currentPrice": 71.15,
+    "percentChange1D": 4.05,
+    "sparkline": [
+      69.65,
+      70.98,
+      69.57,
+      70.22,
+      72.99,
+      71.58
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 121",
+    "ticker": "AAP121",
+    "currentPrice": 439.81,
+    "percentChange1D": 4.28,
+    "sparkline": [
+      438.34,
+      439.15,
+      439.58,
+      440.41,
+      439.01,
+      441.02
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 122",
+    "ticker": "MSF122",
+    "currentPrice": 187.23,
+    "percentChange1D": -0.55,
+    "sparkline": [
+      188.16,
+      185.67,
+      188.05,
+      187.54,
+      186.28,
+      188.42
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 123",
+    "ticker": "AMZ123",
+    "currentPrice": 452.33,
+    "percentChange1D": 3.67,
+    "sparkline": [
+      453.9,
+      452.3,
+      450.46,
+      450.55,
+      451.8,
+      452.66
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 124",
+    "ticker": "GOO124",
+    "currentPrice": 401.85,
+    "percentChange1D": 3.76,
+    "sparkline": [
+      402.69,
+      402.71,
+      403.51,
+      401.35,
+      401.99,
+      403.64
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 125",
+    "ticker": "MET125",
+    "currentPrice": 304.7,
+    "percentChange1D": -4.38,
+    "sparkline": [
+      306.15,
+      303.93,
+      306.03,
+      306.66,
+      304.78,
+      305.45
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 126",
+    "ticker": "TSL126",
+    "currentPrice": 63.54,
+    "percentChange1D": -1.87,
+    "sparkline": [
+      62.23,
+      62.36,
+      62.21,
+      64.33,
+      64.22,
+      63.57
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 127",
+    "ticker": "NVD127",
+    "currentPrice": 194.56,
+    "percentChange1D": 0.15,
+    "sparkline": [
+      195.32,
+      193.99,
+      193.28,
+      194.38,
+      193.62,
+      196.07
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 128",
+    "ticker": "BRK128",
+    "currentPrice": 272.83,
+    "percentChange1D": -3.93,
+    "sparkline": [
+      271.78,
+      272.45,
+      272.24,
+      272.54,
+      273.91,
+      273.4
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 129",
+    "ticker": "JPM129",
+    "currentPrice": 371.1,
+    "percentChange1D": 3.53,
+    "sparkline": [
+      371.8,
+      372.05,
+      371.34,
+      371.28,
+      370.88,
+      370.82
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 130",
+    "ticker": "JNJ130",
+    "currentPrice": 460.8,
+    "percentChange1D": -2.98,
+    "sparkline": [
+      460.45,
+      462.19,
+      462.09,
+      461.9,
+      461.49,
+      459.07
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 131",
+    "ticker": "AAP131",
+    "currentPrice": 295.77,
+    "percentChange1D": -2.4,
+    "sparkline": [
+      294.74,
+      297.18,
+      295.23,
+      294.77,
+      296.47,
+      295.77
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 132",
+    "ticker": "MSF132",
+    "currentPrice": 330.97,
+    "percentChange1D": -1.07,
+    "sparkline": [
+      330.28,
+      332.95,
+      331.74,
+      329.64,
+      329.33,
+      330.08
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 133",
+    "ticker": "AMZ133",
+    "currentPrice": 126.84,
+    "percentChange1D": -4.71,
+    "sparkline": [
+      125.45,
+      126.8,
+      127.51,
+      127.32,
+      127.29,
+      128.82
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 134",
+    "ticker": "GOO134",
+    "currentPrice": 230.76,
+    "percentChange1D": -3.44,
+    "sparkline": [
+      229.09,
+      228.95,
+      230.65,
+      231.96,
+      231.31,
+      230.86
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 135",
+    "ticker": "MET135",
+    "currentPrice": 75.93,
+    "percentChange1D": -2.87,
+    "sparkline": [
+      75.98,
+      76.86,
+      75.11,
+      77.26,
+      76.51,
+      76.54
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 136",
+    "ticker": "TSL136",
+    "currentPrice": 479.89,
+    "percentChange1D": -2.69,
+    "sparkline": [
+      480.98,
+      478.8,
+      481.85,
+      479.03,
+      479.43,
+      479.34
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 137",
+    "ticker": "NVD137",
+    "currentPrice": 382.92,
+    "percentChange1D": 1.86,
+    "sparkline": [
+      381.96,
+      383.46,
+      384.77,
+      383.54,
+      381.71,
+      382.29
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 138",
+    "ticker": "BRK138",
+    "currentPrice": 492.72,
+    "percentChange1D": 0.86,
+    "sparkline": [
+      492.08,
+      491.39,
+      492.48,
+      492.95,
+      493.42,
+      491.41
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 139",
+    "ticker": "JPM139",
+    "currentPrice": 161.56,
+    "percentChange1D": 1.62,
+    "sparkline": [
+      161.92,
+      159.91,
+      163.33,
+      161.8,
+      160.26,
+      161.48
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 140",
+    "ticker": "JNJ140",
+    "currentPrice": 173.3,
+    "percentChange1D": -3.99,
+    "sparkline": [
+      172.65,
+      174.56,
+      173.6,
+      173.31,
+      174.46,
+      174.9
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 141",
+    "ticker": "AAP141",
+    "currentPrice": 467.02,
+    "percentChange1D": -4.75,
+    "sparkline": [
+      467.26,
+      467.52,
+      466.37,
+      468.05,
+      467.86,
+      467.55
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 142",
+    "ticker": "MSF142",
+    "currentPrice": 123.09,
+    "percentChange1D": -1.82,
+    "sparkline": [
+      122.5,
+      122.79,
+      121.8,
+      124.07,
+      121.26,
+      122.2
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 143",
+    "ticker": "AMZ143",
+    "currentPrice": 289.54,
+    "percentChange1D": -3.93,
+    "sparkline": [
+      288.03,
+      290.58,
+      290.7,
+      291.0,
+      289.84,
+      288.38
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 144",
+    "ticker": "GOO144",
+    "currentPrice": 233.36,
+    "percentChange1D": -3.09,
+    "sparkline": [
+      234.51,
+      231.81,
+      233.19,
+      232.04,
+      234.93,
+      234.18
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 145",
+    "ticker": "MET145",
+    "currentPrice": 334.22,
+    "percentChange1D": 2.5,
+    "sparkline": [
+      333.37,
+      334.95,
+      335.35,
+      333.34,
+      332.78,
+      333.92
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 146",
+    "ticker": "TSL146",
+    "currentPrice": 499.16,
+    "percentChange1D": 2.68,
+    "sparkline": [
+      500.81,
+      501.08,
+      499.74,
+      500.98,
+      498.9,
+      497.75
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 147",
+    "ticker": "NVD147",
+    "currentPrice": 430.68,
+    "percentChange1D": 0.83,
+    "sparkline": [
+      431.56,
+      431.07,
+      432.58,
+      432.39,
+      432.21,
+      428.79
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 148",
+    "ticker": "BRK148",
+    "currentPrice": 174.14,
+    "percentChange1D": -4.45,
+    "sparkline": [
+      172.84,
+      172.75,
+      174.36,
+      175.61,
+      173.43,
+      173.0
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 149",
+    "ticker": "JPM149",
+    "currentPrice": 308.64,
+    "percentChange1D": 3.47,
+    "sparkline": [
+      308.84,
+      308.59,
+      307.79,
+      306.67,
+      308.23,
+      306.83
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 150",
+    "ticker": "JNJ150",
+    "currentPrice": 184.54,
+    "percentChange1D": 3.3,
+    "sparkline": [
+      186.46,
+      182.71,
+      183.83,
+      186.22,
+      184.9,
+      186.38
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 151",
+    "ticker": "AAP151",
+    "currentPrice": 309.88,
+    "percentChange1D": -1.43,
+    "sparkline": [
+      309.28,
+      311.35,
+      311.79,
+      311.54,
+      307.89,
+      308.18
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 152",
+    "ticker": "MSF152",
+    "currentPrice": 149.39,
+    "percentChange1D": 1.97,
+    "sparkline": [
+      150.84,
+      147.72,
+      148.76,
+      149.53,
+      150.08,
+      150.11
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 153",
+    "ticker": "AMZ153",
+    "currentPrice": 183.59,
+    "percentChange1D": -2.07,
+    "sparkline": [
+      182.64,
+      182.21,
+      185.09,
+      185.49,
+      184.2,
+      184.54
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 154",
+    "ticker": "GOO154",
+    "currentPrice": 310.18,
+    "percentChange1D": 0.37,
+    "sparkline": [
+      310.68,
+      309.29,
+      310.54,
+      308.3,
+      311.27,
+      308.28
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 155",
+    "ticker": "MET155",
+    "currentPrice": 414.5,
+    "percentChange1D": 3.95,
+    "sparkline": [
+      415.09,
+      415.55,
+      415.3,
+      413.54,
+      413.87,
+      412.87
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 156",
+    "ticker": "TSL156",
+    "currentPrice": 284.54,
+    "percentChange1D": 0.48,
+    "sparkline": [
+      284.45,
+      283.87,
+      286.19,
+      283.59,
+      283.83,
+      284.32
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 157",
+    "ticker": "NVD157",
+    "currentPrice": 357.79,
+    "percentChange1D": -1.08,
+    "sparkline": [
+      356.71,
+      355.92,
+      359.33,
+      358.03,
+      357.57,
+      357.26
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 158",
+    "ticker": "BRK158",
+    "currentPrice": 479.27,
+    "percentChange1D": -4.47,
+    "sparkline": [
+      479.86,
+      481.2,
+      480.69,
+      478.56,
+      480.5,
+      477.39
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 159",
+    "ticker": "JPM159",
+    "currentPrice": 165.29,
+    "percentChange1D": -4.96,
+    "sparkline": [
+      163.95,
+      166.42,
+      164.75,
+      163.37,
+      165.9,
+      166.08
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 160",
+    "ticker": "JNJ160",
+    "currentPrice": 367.06,
+    "percentChange1D": -3.64,
+    "sparkline": [
+      367.65,
+      366.7,
+      368.56,
+      365.58,
+      366.06,
+      368.47
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 161",
+    "ticker": "AAP161",
+    "currentPrice": 457.69,
+    "percentChange1D": -0.79,
+    "sparkline": [
+      456.28,
+      458.35,
+      457.9,
+      458.63,
+      456.98,
+      459.59
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 162",
+    "ticker": "MSF162",
+    "currentPrice": 363.08,
+    "percentChange1D": 4.13,
+    "sparkline": [
+      364.8,
+      363.25,
+      364.57,
+      364.87,
+      363.73,
+      362.73
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 163",
+    "ticker": "AMZ163",
+    "currentPrice": 98.3,
+    "percentChange1D": -3.61,
+    "sparkline": [
+      97.36,
+      98.86,
+      98.33,
+      96.72,
+      98.37,
+      100.29
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 164",
+    "ticker": "GOO164",
+    "currentPrice": 380.84,
+    "percentChange1D": 3.79,
+    "sparkline": [
+      378.91,
+      379.67,
+      381.76,
+      381.34,
+      381.48,
+      381.32
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 165",
+    "ticker": "MET165",
+    "currentPrice": 254.51,
+    "percentChange1D": 2.68,
+    "sparkline": [
+      256.46,
+      253.21,
+      252.8,
+      253.28,
+      256.13,
+      255.07
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 166",
+    "ticker": "TSL166",
+    "currentPrice": 182.04,
+    "percentChange1D": -3.19,
+    "sparkline": [
+      183.38,
+      182.14,
+      183.97,
+      182.59,
+      181.88,
+      181.87
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 167",
+    "ticker": "NVD167",
+    "currentPrice": 435.76,
+    "percentChange1D": 0.69,
+    "sparkline": [
+      435.99,
+      435.23,
+      434.41,
+      437.36,
+      437.38,
+      436.63
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 168",
+    "ticker": "BRK168",
+    "currentPrice": 195.89,
+    "percentChange1D": 3.24,
+    "sparkline": [
+      193.94,
+      196.18,
+      195.23,
+      196.03,
+      195.22,
+      195.49
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 169",
+    "ticker": "JPM169",
+    "currentPrice": 345.41,
+    "percentChange1D": 0.75,
+    "sparkline": [
+      347.13,
+      347.09,
+      345.05,
+      346.02,
+      346.82,
+      346.93
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 170",
+    "ticker": "JNJ170",
+    "currentPrice": 215.15,
+    "percentChange1D": 0.14,
+    "sparkline": [
+      216.39,
+      214.41,
+      215.72,
+      214.38,
+      215.21,
+      216.27
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 171",
+    "ticker": "AAP171",
+    "currentPrice": 339.62,
+    "percentChange1D": 2.15,
+    "sparkline": [
+      338.99,
+      337.69,
+      338.98,
+      339.51,
+      339.93,
+      340.97
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 172",
+    "ticker": "MSF172",
+    "currentPrice": 62.63,
+    "percentChange1D": 3.27,
+    "sparkline": [
+      61.19,
+      64.61,
+      61.56,
+      63.11,
+      64.2,
+      61.94
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 173",
+    "ticker": "AMZ173",
+    "currentPrice": 177.4,
+    "percentChange1D": -2.82,
+    "sparkline": [
+      179.1,
+      177.84,
+      178.56,
+      177.99,
+      178.33,
+      178.66
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 174",
+    "ticker": "GOO174",
+    "currentPrice": 122.31,
+    "percentChange1D": 2.72,
+    "sparkline": [
+      123.1,
+      121.37,
+      122.46,
+      120.46,
+      121.68,
+      123.72
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 175",
+    "ticker": "MET175",
+    "currentPrice": 53.04,
+    "percentChange1D": 4.68,
+    "sparkline": [
+      54.45,
+      53.04,
+      54.51,
+      51.14,
+      52.75,
+      54.23
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 176",
+    "ticker": "TSL176",
+    "currentPrice": 295.69,
+    "percentChange1D": 0.64,
+    "sparkline": [
+      296.18,
+      296.23,
+      296.23,
+      295.16,
+      293.86,
+      294.54
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 177",
+    "ticker": "NVD177",
+    "currentPrice": 464.28,
+    "percentChange1D": 4.79,
+    "sparkline": [
+      465.34,
+      464.14,
+      463.97,
+      464.44,
+      463.27,
+      465.45
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 178",
+    "ticker": "BRK178",
+    "currentPrice": 385.47,
+    "percentChange1D": -2.27,
+    "sparkline": [
+      385.79,
+      386.92,
+      385.27,
+      386.02,
+      386.34,
+      386.12
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 179",
+    "ticker": "JPM179",
+    "currentPrice": 70.56,
+    "percentChange1D": -0.04,
+    "sparkline": [
+      70.18,
+      69.79,
+      69.72,
+      71.4,
+      69.72,
+      70.94
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 180",
+    "ticker": "JNJ180",
+    "currentPrice": 410.2,
+    "percentChange1D": 3.16,
+    "sparkline": [
+      412.05,
+      409.78,
+      410.37,
+      412.03,
+      410.86,
+      411.24
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 181",
+    "ticker": "AAP181",
+    "currentPrice": 140.49,
+    "percentChange1D": -2.48,
+    "sparkline": [
+      142.37,
+      139.3,
+      140.38,
+      140.39,
+      139.65,
+      142.16
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 182",
+    "ticker": "MSF182",
+    "currentPrice": 145.37,
+    "percentChange1D": 0.46,
+    "sparkline": [
+      143.82,
+      143.92,
+      146.78,
+      143.49,
+      147.12,
+      144.3
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 183",
+    "ticker": "AMZ183",
+    "currentPrice": 397.45,
+    "percentChange1D": -1.95,
+    "sparkline": [
+      397.27,
+      396.96,
+      396.07,
+      398.24,
+      396.18,
+      398.67
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 184",
+    "ticker": "GOO184",
+    "currentPrice": 457.39,
+    "percentChange1D": 0.48,
+    "sparkline": [
+      456.74,
+      458.43,
+      457.42,
+      455.98,
+      458.08,
+      456.9
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 185",
+    "ticker": "MET185",
+    "currentPrice": 352.31,
+    "percentChange1D": 2.97,
+    "sparkline": [
+      353.04,
+      352.62,
+      351.52,
+      351.3,
+      351.07,
+      351.07
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 186",
+    "ticker": "TSL186",
+    "currentPrice": 156.84,
+    "percentChange1D": -1.0,
+    "sparkline": [
+      155.3,
+      158.78,
+      158.35,
+      157.41,
+      157.99,
+      156.89
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 187",
+    "ticker": "NVD187",
+    "currentPrice": 256.3,
+    "percentChange1D": 3.89,
+    "sparkline": [
+      255.96,
+      254.95,
+      256.88,
+      257.51,
+      256.06,
+      254.46
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 188",
+    "ticker": "BRK188",
+    "currentPrice": 246.7,
+    "percentChange1D": 4.34,
+    "sparkline": [
+      247.44,
+      245.85,
+      246.28,
+      246.22,
+      245.91,
+      246.0
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 189",
+    "ticker": "JPM189",
+    "currentPrice": 284.14,
+    "percentChange1D": -4.25,
+    "sparkline": [
+      283.26,
+      282.26,
+      283.47,
+      284.71,
+      284.84,
+      285.2
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 190",
+    "ticker": "JNJ190",
+    "currentPrice": 392.89,
+    "percentChange1D": 2.33,
+    "sparkline": [
+      393.8,
+      394.7,
+      391.73,
+      392.12,
+      393.22,
+      391.77
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 191",
+    "ticker": "AAP191",
+    "currentPrice": 163.56,
+    "percentChange1D": 1.66,
+    "sparkline": [
+      164.02,
+      163.8,
+      164.83,
+      164.66,
+      163.07,
+      162.37
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 192",
+    "ticker": "MSF192",
+    "currentPrice": 213.13,
+    "percentChange1D": -2.01,
+    "sparkline": [
+      212.58,
+      211.29,
+      213.42,
+      215.12,
+      211.69,
+      213.13
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 193",
+    "ticker": "AMZ193",
+    "currentPrice": 218.8,
+    "percentChange1D": -0.05,
+    "sparkline": [
+      219.69,
+      220.67,
+      217.11,
+      219.12,
+      220.61,
+      217.32
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 194",
+    "ticker": "GOO194",
+    "currentPrice": 307.47,
+    "percentChange1D": -1.46,
+    "sparkline": [
+      306.23,
+      308.29,
+      306.8,
+      306.95,
+      309.12,
+      309.18
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 195",
+    "ticker": "MET195",
+    "currentPrice": 178.7,
+    "percentChange1D": 0.25,
+    "sparkline": [
+      178.23,
+      177.53,
+      178.68,
+      179.38,
+      179.85,
+      177.62
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 196",
+    "ticker": "TSL196",
+    "currentPrice": 103.13,
+    "percentChange1D": -3.29,
+    "sparkline": [
+      101.52,
+      104.53,
+      101.13,
+      104.28,
+      102.77,
+      103.43
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 197",
+    "ticker": "NVD197",
+    "currentPrice": 438.84,
+    "percentChange1D": 0.74,
+    "sparkline": [
+      437.26,
+      438.66,
+      439.31,
+      440.58,
+      437.8,
+      438.44
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 198",
+    "ticker": "BRK198",
+    "currentPrice": 449.7,
+    "percentChange1D": 3.46,
+    "sparkline": [
+      449.21,
+      451.39,
+      448.94,
+      448.21,
+      449.35,
+      448.77
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 199",
+    "ticker": "JPM199",
+    "currentPrice": 216.64,
+    "percentChange1D": -2.91,
+    "sparkline": [
+      216.33,
+      217.55,
+      218.28,
+      215.67,
+      214.81,
+      216.22
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 200",
+    "ticker": "JNJ200",
+    "currentPrice": 52.27,
+    "percentChange1D": 0.36,
+    "sparkline": [
+      53.04,
+      52.58,
+      52.47,
+      52.01,
+      53.05,
+      50.89
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 201",
+    "ticker": "AAP201",
+    "currentPrice": 145.86,
+    "percentChange1D": 1.09,
+    "sparkline": [
+      147.78,
+      146.39,
+      143.92,
+      147.2,
+      147.54,
+      147.12
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 202",
+    "ticker": "MSF202",
+    "currentPrice": 182.36,
+    "percentChange1D": 3.57,
+    "sparkline": [
+      183.49,
+      180.91,
+      183.27,
+      180.77,
+      182.15,
+      181.02
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 203",
+    "ticker": "AMZ203",
+    "currentPrice": 276.82,
+    "percentChange1D": -0.3,
+    "sparkline": [
+      277.09,
+      275.1,
+      275.27,
+      276.24,
+      278.66,
+      275.53
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 204",
+    "ticker": "GOO204",
+    "currentPrice": 466.22,
+    "percentChange1D": -0.97,
+    "sparkline": [
+      464.31,
+      466.72,
+      467.4,
+      464.33,
+      466.89,
+      466.84
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 205",
+    "ticker": "MET205",
+    "currentPrice": 95.15,
+    "percentChange1D": -3.39,
+    "sparkline": [
+      97.03,
+      96.7,
+      95.78,
+      96.78,
+      95.56,
+      96.51
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 206",
+    "ticker": "TSL206",
+    "currentPrice": 249.01,
+    "percentChange1D": 3.51,
+    "sparkline": [
+      249.36,
+      250.07,
+      247.58,
+      247.94,
+      250.9,
+      248.56
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 207",
+    "ticker": "NVD207",
+    "currentPrice": 166.61,
+    "percentChange1D": -2.75,
+    "sparkline": [
+      167.7,
+      168.55,
+      166.26,
+      164.68,
+      166.53,
+      167.06
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 208",
+    "ticker": "BRK208",
+    "currentPrice": 421.54,
+    "percentChange1D": 0.33,
+    "sparkline": [
+      419.96,
+      422.68,
+      421.05,
+      419.6,
+      420.93,
+      422.12
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 209",
+    "ticker": "JPM209",
+    "currentPrice": 87.36,
+    "percentChange1D": 3.4,
+    "sparkline": [
+      85.83,
+      88.58,
+      88.85,
+      85.95,
+      87.5,
+      86.71
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 210",
+    "ticker": "JNJ210",
+    "currentPrice": 165.35,
+    "percentChange1D": 3.14,
+    "sparkline": [
+      165.1,
+      165.87,
+      166.71,
+      166.75,
+      166.31,
+      167.12
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 211",
+    "ticker": "AAP211",
+    "currentPrice": 330.31,
+    "percentChange1D": -4.36,
+    "sparkline": [
+      329.07,
+      328.4,
+      332.22,
+      329.55,
+      328.69,
+      328.89
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 212",
+    "ticker": "MSF212",
+    "currentPrice": 165.76,
+    "percentChange1D": -0.68,
+    "sparkline": [
+      166.6,
+      166.03,
+      166.58,
+      167.75,
+      166.18,
+      163.86
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 213",
+    "ticker": "AMZ213",
+    "currentPrice": 428.72,
+    "percentChange1D": 2.79,
+    "sparkline": [
+      428.9,
+      427.33,
+      428.52,
+      427.37,
+      430.3,
+      427.84
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 214",
+    "ticker": "GOO214",
+    "currentPrice": 200.78,
+    "percentChange1D": -4.94,
+    "sparkline": [
+      199.89,
+      200.0,
+      199.37,
+      199.44,
+      201.76,
+      201.75
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 215",
+    "ticker": "MET215",
+    "currentPrice": 64.74,
+    "percentChange1D": 3.93,
+    "sparkline": [
+      65.68,
+      64.71,
+      63.42,
+      65.88,
+      65.98,
+      66.64
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 216",
+    "ticker": "TSL216",
+    "currentPrice": 394.14,
+    "percentChange1D": -0.22,
+    "sparkline": [
+      394.3,
+      394.5,
+      394.22,
+      392.56,
+      392.35,
+      392.85
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 217",
+    "ticker": "NVD217",
+    "currentPrice": 454.61,
+    "percentChange1D": -2.03,
+    "sparkline": [
+      455.2,
+      454.99,
+      454.1,
+      455.86,
+      454.23,
+      456.2
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 218",
+    "ticker": "BRK218",
+    "currentPrice": 485.18,
+    "percentChange1D": -2.99,
+    "sparkline": [
+      483.77,
+      485.26,
+      486.35,
+      487.13,
+      483.52,
+      486.9
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 219",
+    "ticker": "JPM219",
+    "currentPrice": 282.46,
+    "percentChange1D": 0.81,
+    "sparkline": [
+      282.71,
+      283.04,
+      281.87,
+      283.37,
+      282.32,
+      282.48
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 220",
+    "ticker": "JNJ220",
+    "currentPrice": 464.68,
+    "percentChange1D": -1.25,
+    "sparkline": [
+      464.61,
+      463.93,
+      463.41,
+      465.31,
+      463.96,
+      464.63
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 221",
+    "ticker": "AAP221",
+    "currentPrice": 189.73,
+    "percentChange1D": -4.04,
+    "sparkline": [
+      189.8,
+      190.89,
+      187.97,
+      189.88,
+      189.57,
+      189.35
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 222",
+    "ticker": "MSF222",
+    "currentPrice": 186.91,
+    "percentChange1D": -1.73,
+    "sparkline": [
+      186.91,
+      188.1,
+      188.07,
+      187.92,
+      187.35,
+      188.48
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 223",
+    "ticker": "AMZ223",
+    "currentPrice": 200.44,
+    "percentChange1D": -0.53,
+    "sparkline": [
+      201.71,
+      199.55,
+      199.85,
+      201.38,
+      201.99,
+      199.59
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 224",
+    "ticker": "GOO224",
+    "currentPrice": 295.93,
+    "percentChange1D": -1.96,
+    "sparkline": [
+      297.76,
+      295.71,
+      297.26,
+      296.77,
+      294.22,
+      296.63
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 225",
+    "ticker": "MET225",
+    "currentPrice": 55.1,
+    "percentChange1D": -0.16,
+    "sparkline": [
+      53.74,
+      55.07,
+      54.8,
+      56.99,
+      54.44,
+      56.91
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 226",
+    "ticker": "TSL226",
+    "currentPrice": 272.69,
+    "percentChange1D": -0.51,
+    "sparkline": [
+      274.49,
+      274.36,
+      272.47,
+      271.75,
+      273.79,
+      274.13
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 227",
+    "ticker": "NVD227",
+    "currentPrice": 319.08,
+    "percentChange1D": 4.45,
+    "sparkline": [
+      318.56,
+      320.44,
+      320.51,
+      317.28,
+      318.83,
+      317.65
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 228",
+    "ticker": "BRK228",
+    "currentPrice": 108.02,
+    "percentChange1D": 0.68,
+    "sparkline": [
+      107.75,
+      107.34,
+      106.08,
+      106.4,
+      108.74,
+      106.31
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 229",
+    "ticker": "JPM229",
+    "currentPrice": 252.1,
+    "percentChange1D": -3.05,
+    "sparkline": [
+      252.84,
+      253.3,
+      252.2,
+      250.78,
+      250.29,
+      253.97
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 230",
+    "ticker": "JNJ230",
+    "currentPrice": 357.38,
+    "percentChange1D": 4.94,
+    "sparkline": [
+      358.28,
+      359.28,
+      359.12,
+      355.83,
+      356.66,
+      357.44
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 231",
+    "ticker": "AAP231",
+    "currentPrice": 96.62,
+    "percentChange1D": -0.12,
+    "sparkline": [
+      96.74,
+      98.55,
+      95.0,
+      98.61,
+      95.81,
+      97.74
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 232",
+    "ticker": "MSF232",
+    "currentPrice": 388.98,
+    "percentChange1D": -4.89,
+    "sparkline": [
+      388.52,
+      387.6,
+      388.98,
+      390.53,
+      390.82,
+      387.16
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 233",
+    "ticker": "AMZ233",
+    "currentPrice": 376.25,
+    "percentChange1D": -1.74,
+    "sparkline": [
+      374.87,
+      374.52,
+      375.82,
+      377.2,
+      375.42,
+      375.5
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 234",
+    "ticker": "GOO234",
+    "currentPrice": 137.78,
+    "percentChange1D": -3.0,
+    "sparkline": [
+      136.49,
+      139.39,
+      136.47,
+      139.77,
+      136.83,
+      138.95
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 235",
+    "ticker": "MET235",
+    "currentPrice": 304.33,
+    "percentChange1D": -2.93,
+    "sparkline": [
+      305.9,
+      304.53,
+      305.59,
+      303.6,
+      302.53,
+      305.6
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 236",
+    "ticker": "TSL236",
+    "currentPrice": 465.72,
+    "percentChange1D": -0.45,
+    "sparkline": [
+      465.8,
+      463.8,
+      464.82,
+      467.44,
+      465.81,
+      467.21
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 237",
+    "ticker": "NVD237",
+    "currentPrice": 139.03,
+    "percentChange1D": -4.06,
+    "sparkline": [
+      140.8,
+      140.34,
+      139.04,
+      138.24,
+      137.18,
+      139.03
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 238",
+    "ticker": "BRK238",
+    "currentPrice": 454.66,
+    "percentChange1D": 2.05,
+    "sparkline": [
+      456.14,
+      456.48,
+      454.04,
+      452.7,
+      455.77,
+      456.12
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 239",
+    "ticker": "JPM239",
+    "currentPrice": 247.8,
+    "percentChange1D": 0.51,
+    "sparkline": [
+      247.88,
+      246.72,
+      249.02,
+      249.41,
+      248.75,
+      249.0
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 240",
+    "ticker": "JNJ240",
+    "currentPrice": 446.03,
+    "percentChange1D": 3.75,
+    "sparkline": [
+      447.17,
+      446.36,
+      447.14,
+      446.72,
+      445.59,
+      444.3
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 241",
+    "ticker": "AAP241",
+    "currentPrice": 127.88,
+    "percentChange1D": 4.63,
+    "sparkline": [
+      127.09,
+      127.09,
+      128.0,
+      126.19,
+      127.59,
+      128.63
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 242",
+    "ticker": "MSF242",
+    "currentPrice": 429.83,
+    "percentChange1D": -4.43,
+    "sparkline": [
+      429.68,
+      428.35,
+      431.21,
+      431.73,
+      428.48,
+      431.59
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 243",
+    "ticker": "AMZ243",
+    "currentPrice": 367.29,
+    "percentChange1D": 3.97,
+    "sparkline": [
+      368.82,
+      365.43,
+      366.76,
+      369.02,
+      368.43,
+      366.19
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 244",
+    "ticker": "GOO244",
+    "currentPrice": 73.38,
+    "percentChange1D": -4.31,
+    "sparkline": [
+      75.23,
+      73.36,
+      73.52,
+      72.38,
+      73.12,
+      72.66
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 245",
+    "ticker": "MET245",
+    "currentPrice": 365.33,
+    "percentChange1D": 2.57,
+    "sparkline": [
+      363.56,
+      365.15,
+      366.41,
+      366.18,
+      365.47,
+      363.62
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 246",
+    "ticker": "TSL246",
+    "currentPrice": 455.8,
+    "percentChange1D": 0.56,
+    "sparkline": [
+      457.21,
+      453.81,
+      456.08,
+      455.05,
+      457.28,
+      455.36
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 247",
+    "ticker": "NVD247",
+    "currentPrice": 72.15,
+    "percentChange1D": -1.56,
+    "sparkline": [
+      72.86,
+      73.16,
+      73.71,
+      73.13,
+      73.0,
+      70.23
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 248",
+    "ticker": "BRK248",
+    "currentPrice": 242.47,
+    "percentChange1D": 3.5,
+    "sparkline": [
+      241.61,
+      244.08,
+      241.19,
+      241.39,
+      243.18,
+      241.96
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 249",
+    "ticker": "JPM249",
+    "currentPrice": 463.16,
+    "percentChange1D": 3.88,
+    "sparkline": [
+      465.13,
+      461.95,
+      463.75,
+      461.75,
+      461.85,
+      464.01
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 250",
+    "ticker": "JNJ250",
+    "currentPrice": 159.44,
+    "percentChange1D": 0.06,
+    "sparkline": [
+      159.77,
+      159.42,
+      161.25,
+      159.42,
+      159.7,
+      160.05
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 251",
+    "ticker": "AAP251",
+    "currentPrice": 75.38,
+    "percentChange1D": -2.44,
+    "sparkline": [
+      76.43,
+      74.16,
+      73.67,
+      73.74,
+      74.29,
+      76.55
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 252",
+    "ticker": "MSF252",
+    "currentPrice": 149.34,
+    "percentChange1D": 3.74,
+    "sparkline": [
+      148.2,
+      148.37,
+      148.4,
+      147.69,
+      148.13,
+      150.0
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 253",
+    "ticker": "AMZ253",
+    "currentPrice": 360.09,
+    "percentChange1D": 0.33,
+    "sparkline": [
+      358.43,
+      359.19,
+      360.41,
+      358.15,
+      361.62,
+      358.1
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 254",
+    "ticker": "GOO254",
+    "currentPrice": 426.75,
+    "percentChange1D": 3.24,
+    "sparkline": [
+      427.84,
+      425.63,
+      427.55,
+      428.53,
+      424.94,
+      426.56
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 255",
+    "ticker": "MET255",
+    "currentPrice": 207.01,
+    "percentChange1D": 3.67,
+    "sparkline": [
+      206.04,
+      205.59,
+      205.59,
+      207.86,
+      208.77,
+      206.09
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 256",
+    "ticker": "TSL256",
+    "currentPrice": 94.81,
+    "percentChange1D": 3.87,
+    "sparkline": [
+      93.8,
+      96.15,
+      93.08,
+      95.86,
+      94.87,
+      93.05
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 257",
+    "ticker": "NVD257",
+    "currentPrice": 206.34,
+    "percentChange1D": -0.45,
+    "sparkline": [
+      204.41,
+      207.0,
+      205.22,
+      205.14,
+      204.52,
+      205.91
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 258",
+    "ticker": "BRK258",
+    "currentPrice": 239.78,
+    "percentChange1D": -3.29,
+    "sparkline": [
+      239.34,
+      239.57,
+      240.99,
+      238.21,
+      241.2,
+      238.22
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 259",
+    "ticker": "JPM259",
+    "currentPrice": 477.76,
+    "percentChange1D": -0.45,
+    "sparkline": [
+      477.13,
+      479.6,
+      478.97,
+      479.16,
+      478.05,
+      476.08
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 260",
+    "ticker": "JNJ260",
+    "currentPrice": 387.87,
+    "percentChange1D": 1.73,
+    "sparkline": [
+      389.02,
+      389.36,
+      385.96,
+      389.33,
+      386.95,
+      387.7
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 261",
+    "ticker": "AAP261",
+    "currentPrice": 142.03,
+    "percentChange1D": 0.47,
+    "sparkline": [
+      143.94,
+      141.38,
+      142.96,
+      141.44,
+      141.35,
+      140.43
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 262",
+    "ticker": "MSF262",
+    "currentPrice": 395.94,
+    "percentChange1D": 2.26,
+    "sparkline": [
+      395.34,
+      395.38,
+      395.18,
+      395.71,
+      397.39,
+      396.53
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 263",
+    "ticker": "AMZ263",
+    "currentPrice": 221.56,
+    "percentChange1D": -3.08,
+    "sparkline": [
+      222.8,
+      221.61,
+      221.09,
+      220.87,
+      219.77,
+      222.69
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 264",
+    "ticker": "GOO264",
+    "currentPrice": 88.89,
+    "percentChange1D": -3.09,
+    "sparkline": [
+      87.96,
+      90.66,
+      87.86,
+      87.74,
+      89.72,
+      87.53
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 265",
+    "ticker": "MET265",
+    "currentPrice": 173.97,
+    "percentChange1D": -3.38,
+    "sparkline": [
+      174.13,
+      172.44,
+      172.35,
+      173.72,
+      172.04,
+      173.47
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 266",
+    "ticker": "TSL266",
+    "currentPrice": 388.79,
+    "percentChange1D": -2.19,
+    "sparkline": [
+      388.99,
+      389.66,
+      389.46,
+      389.02,
+      390.49,
+      386.87
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 267",
+    "ticker": "NVD267",
+    "currentPrice": 381.16,
+    "percentChange1D": -1.14,
+    "sparkline": [
+      381.63,
+      381.33,
+      380.82,
+      383.01,
+      382.16,
+      379.51
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 268",
+    "ticker": "BRK268",
+    "currentPrice": 471.48,
+    "percentChange1D": 1.56,
+    "sparkline": [
+      471.86,
+      471.67,
+      471.07,
+      472.48,
+      472.48,
+      471.26
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 269",
+    "ticker": "JPM269",
+    "currentPrice": 180.05,
+    "percentChange1D": 0.74,
+    "sparkline": [
+      181.41,
+      181.54,
+      181.58,
+      178.62,
+      179.2,
+      180.39
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 270",
+    "ticker": "JNJ270",
+    "currentPrice": 387.99,
+    "percentChange1D": -4.35,
+    "sparkline": [
+      389.14,
+      389.71,
+      387.46,
+      386.31,
+      388.34,
+      388.83
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 271",
+    "ticker": "AAP271",
+    "currentPrice": 258.6,
+    "percentChange1D": -1.03,
+    "sparkline": [
+      260.08,
+      258.92,
+      256.8,
+      259.14,
+      258.48,
+      256.79
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 272",
+    "ticker": "MSF272",
+    "currentPrice": 443.54,
+    "percentChange1D": 2.52,
+    "sparkline": [
+      442.25,
+      442.86,
+      444.93,
+      442.75,
+      442.89,
+      442.1
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 273",
+    "ticker": "AMZ273",
+    "currentPrice": 158.8,
+    "percentChange1D": -0.2,
+    "sparkline": [
+      159.44,
+      160.66,
+      158.72,
+      159.31,
+      159.5,
+      159.64
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 274",
+    "ticker": "GOO274",
+    "currentPrice": 385.83,
+    "percentChange1D": 2.04,
+    "sparkline": [
+      385.99,
+      386.93,
+      387.76,
+      385.76,
+      387.48,
+      384.18
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 275",
+    "ticker": "MET275",
+    "currentPrice": 414.04,
+    "percentChange1D": -1.24,
+    "sparkline": [
+      412.92,
+      412.97,
+      414.72,
+      412.21,
+      414.07,
+      415.15
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 276",
+    "ticker": "TSL276",
+    "currentPrice": 269.26,
+    "percentChange1D": 4.49,
+    "sparkline": [
+      268.0,
+      267.38,
+      267.83,
+      269.52,
+      267.91,
+      271.0
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 277",
+    "ticker": "NVD277",
+    "currentPrice": 209.13,
+    "percentChange1D": -2.21,
+    "sparkline": [
+      208.18,
+      209.43,
+      210.95,
+      209.84,
+      208.48,
+      207.89
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 278",
+    "ticker": "BRK278",
+    "currentPrice": 472.25,
+    "percentChange1D": 2.47,
+    "sparkline": [
+      473.45,
+      470.33,
+      474.02,
+      472.43,
+      470.97,
+      473.3
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 279",
+    "ticker": "JPM279",
+    "currentPrice": 478.68,
+    "percentChange1D": -1.01,
+    "sparkline": [
+      480.34,
+      480.5,
+      479.08,
+      476.7,
+      478.47,
+      480.34
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 280",
+    "ticker": "JNJ280",
+    "currentPrice": 197.83,
+    "percentChange1D": -0.43,
+    "sparkline": [
+      196.57,
+      196.36,
+      196.76,
+      195.9,
+      199.42,
+      199.51
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 281",
+    "ticker": "AAP281",
+    "currentPrice": 167.87,
+    "percentChange1D": -4.72,
+    "sparkline": [
+      167.11,
+      167.91,
+      166.39,
+      169.62,
+      168.62,
+      169.13
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 282",
+    "ticker": "MSF282",
+    "currentPrice": 486.2,
+    "percentChange1D": 0.15,
+    "sparkline": [
+      485.23,
+      487.17,
+      485.92,
+      488.14,
+      487.82,
+      484.5
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 283",
+    "ticker": "AMZ283",
+    "currentPrice": 375.69,
+    "percentChange1D": 2.71,
+    "sparkline": [
+      375.77,
+      374.32,
+      375.96,
+      374.8,
+      376.23,
+      377.42
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 284",
+    "ticker": "GOO284",
+    "currentPrice": 407.5,
+    "percentChange1D": -0.25,
+    "sparkline": [
+      409.49,
+      408.15,
+      406.32,
+      405.57,
+      407.62,
+      408.19
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 285",
+    "ticker": "MET285",
+    "currentPrice": 135.74,
+    "percentChange1D": -0.54,
+    "sparkline": [
+      136.32,
+      136.63,
+      137.47,
+      135.31,
+      136.09,
+      135.48
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 286",
+    "ticker": "TSL286",
+    "currentPrice": 235.36,
+    "percentChange1D": -2.21,
+    "sparkline": [
+      236.94,
+      236.13,
+      236.17,
+      236.56,
+      234.87,
+      236.4
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 287",
+    "ticker": "NVD287",
+    "currentPrice": 392.86,
+    "percentChange1D": -3.8,
+    "sparkline": [
+      393.37,
+      391.52,
+      392.68,
+      392.75,
+      394.4,
+      394.33
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 288",
+    "ticker": "BRK288",
+    "currentPrice": 168.85,
+    "percentChange1D": -0.28,
+    "sparkline": [
+      170.02,
+      170.45,
+      170.69,
+      167.17,
+      170.5,
+      168.8
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 289",
+    "ticker": "JPM289",
+    "currentPrice": 105.25,
+    "percentChange1D": -1.34,
+    "sparkline": [
+      104.35,
+      104.78,
+      107.23,
+      106.41,
+      103.92,
+      106.66
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 290",
+    "ticker": "JNJ290",
+    "currentPrice": 141.07,
+    "percentChange1D": 0.27,
+    "sparkline": [
+      139.12,
+      139.81,
+      140.21,
+      140.4,
+      139.46,
+      141.16
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 291",
+    "ticker": "AAP291",
+    "currentPrice": 436.81,
+    "percentChange1D": 2.06,
+    "sparkline": [
+      438.68,
+      436.82,
+      437.2,
+      438.56,
+      435.3,
+      438.0
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 292",
+    "ticker": "MSF292",
+    "currentPrice": 150.24,
+    "percentChange1D": 2.5,
+    "sparkline": [
+      150.66,
+      150.29,
+      148.28,
+      148.51,
+      149.42,
+      152.17
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 293",
+    "ticker": "AMZ293",
+    "currentPrice": 302.34,
+    "percentChange1D": -0.12,
+    "sparkline": [
+      303.28,
+      300.46,
+      304.2,
+      302.89,
+      303.15,
+      300.87
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 294",
+    "ticker": "GOO294",
+    "currentPrice": 457.74,
+    "percentChange1D": 3.06,
+    "sparkline": [
+      456.89,
+      457.43,
+      459.73,
+      456.85,
+      459.68,
+      458.42
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 295",
+    "ticker": "MET295",
+    "currentPrice": 212.85,
+    "percentChange1D": -2.21,
+    "sparkline": [
+      213.55,
+      213.46,
+      212.81,
+      210.93,
+      214.08,
+      213.8
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 296",
+    "ticker": "TSL296",
+    "currentPrice": 400.34,
+    "percentChange1D": -2.0,
+    "sparkline": [
+      400.27,
+      399.22,
+      402.28,
+      400.42,
+      401.42,
+      400.38
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 297",
+    "ticker": "NVD297",
+    "currentPrice": 222.47,
+    "percentChange1D": 3.19,
+    "sparkline": [
+      224.43,
+      221.91,
+      222.62,
+      223.07,
+      223.22,
+      222.5
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 298",
+    "ticker": "BRK298",
+    "currentPrice": 281.69,
+    "percentChange1D": 0.31,
+    "sparkline": [
+      281.02,
+      281.68,
+      282.14,
+      279.78,
+      281.1,
+      279.88
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 299",
+    "ticker": "JPM299",
+    "currentPrice": 96.05,
+    "percentChange1D": 4.17,
+    "sparkline": [
+      95.84,
+      96.54,
+      96.62,
+      98.05,
+      95.28,
+      97.95
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 300",
+    "ticker": "JNJ300",
+    "currentPrice": 106.52,
+    "percentChange1D": -0.73,
+    "sparkline": [
+      106.58,
+      107.73,
+      104.96,
+      106.64,
+      106.76,
+      107.55
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 301",
+    "ticker": "AAP301",
+    "currentPrice": 484.87,
+    "percentChange1D": -2.07,
+    "sparkline": [
+      484.23,
+      484.94,
+      484.27,
+      485.81,
+      485.0,
+      483.15
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 302",
+    "ticker": "MSF302",
+    "currentPrice": 121.69,
+    "percentChange1D": 0.47,
+    "sparkline": [
+      123.24,
+      122.16,
+      121.37,
+      120.08,
+      120.73,
+      120.57
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 303",
+    "ticker": "AMZ303",
+    "currentPrice": 272.62,
+    "percentChange1D": 2.27,
+    "sparkline": [
+      272.15,
+      271.2,
+      273.54,
+      271.42,
+      273.03,
+      272.89
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 304",
+    "ticker": "GOO304",
+    "currentPrice": 55.91,
+    "percentChange1D": -2.84,
+    "sparkline": [
+      57.12,
+      54.14,
+      54.13,
+      54.37,
+      55.68,
+      57.46
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 305",
+    "ticker": "MET305",
+    "currentPrice": 143.38,
+    "percentChange1D": 0.1,
+    "sparkline": [
+      143.35,
+      141.73,
+      144.93,
+      144.97,
+      145.15,
+      142.76
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 306",
+    "ticker": "TSL306",
+    "currentPrice": 132.56,
+    "percentChange1D": -3.59,
+    "sparkline": [
+      132.15,
+      131.7,
+      134.16,
+      131.93,
+      133.68,
+      130.83
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 307",
+    "ticker": "NVD307",
+    "currentPrice": 385.05,
+    "percentChange1D": 2.38,
+    "sparkline": [
+      383.61,
+      383.15,
+      385.94,
+      383.72,
+      386.74,
+      387.04
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 308",
+    "ticker": "BRK308",
+    "currentPrice": 409.53,
+    "percentChange1D": -4.21,
+    "sparkline": [
+      411.08,
+      408.46,
+      409.07,
+      409.93,
+      410.27,
+      409.73
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 309",
+    "ticker": "JPM309",
+    "currentPrice": 301.55,
+    "percentChange1D": 1.59,
+    "sparkline": [
+      301.62,
+      303.41,
+      303.37,
+      301.63,
+      301.32,
+      299.82
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 310",
+    "ticker": "JNJ310",
+    "currentPrice": 117.68,
+    "percentChange1D": -0.99,
+    "sparkline": [
+      117.39,
+      118.1,
+      116.88,
+      117.07,
+      117.3,
+      117.61
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 311",
+    "ticker": "AAP311",
+    "currentPrice": 389.5,
+    "percentChange1D": -0.01,
+    "sparkline": [
+      391.21,
+      390.41,
+      388.31,
+      389.78,
+      390.46,
+      387.54
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 312",
+    "ticker": "MSF312",
+    "currentPrice": 474.55,
+    "percentChange1D": 0.46,
+    "sparkline": [
+      475.82,
+      473.05,
+      474.56,
+      476.22,
+      473.27,
+      474.91
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 313",
+    "ticker": "AMZ313",
+    "currentPrice": 144.78,
+    "percentChange1D": 4.27,
+    "sparkline": [
+      144.22,
+      145.84,
+      143.94,
+      143.0,
+      146.73,
+      145.9
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 314",
+    "ticker": "GOO314",
+    "currentPrice": 446.69,
+    "percentChange1D": 2.07,
+    "sparkline": [
+      446.72,
+      446.89,
+      446.56,
+      446.07,
+      448.22,
+      446.44
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 315",
+    "ticker": "MET315",
+    "currentPrice": 312.79,
+    "percentChange1D": -4.93,
+    "sparkline": [
+      312.56,
+      312.89,
+      312.75,
+      312.23,
+      313.5,
+      311.02
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 316",
+    "ticker": "TSL316",
+    "currentPrice": 323.17,
+    "percentChange1D": 2.46,
+    "sparkline": [
+      321.48,
+      322.56,
+      325.15,
+      324.22,
+      322.44,
+      324.14
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 317",
+    "ticker": "NVD317",
+    "currentPrice": 117.76,
+    "percentChange1D": -1.86,
+    "sparkline": [
+      116.17,
+      115.8,
+      118.0,
+      119.45,
+      119.65,
+      117.1
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 318",
+    "ticker": "BRK318",
+    "currentPrice": 495.27,
+    "percentChange1D": -4.18,
+    "sparkline": [
+      496.65,
+      493.43,
+      493.87,
+      496.47,
+      495.04,
+      496.03
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 319",
+    "ticker": "JPM319",
+    "currentPrice": 190.49,
+    "percentChange1D": 4.45,
+    "sparkline": [
+      189.21,
+      189.48,
+      190.8,
+      191.84,
+      190.04,
+      188.72
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 320",
+    "ticker": "JNJ320",
+    "currentPrice": 186.19,
+    "percentChange1D": 3.76,
+    "sparkline": [
+      184.31,
+      186.85,
+      187.57,
+      184.78,
+      184.55,
+      187.39
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 321",
+    "ticker": "AAP321",
+    "currentPrice": 387.64,
+    "percentChange1D": -4.87,
+    "sparkline": [
+      388.8,
+      385.76,
+      387.51,
+      389.43,
+      389.6,
+      386.21
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 322",
+    "ticker": "MSF322",
+    "currentPrice": 326.46,
+    "percentChange1D": 2.8,
+    "sparkline": [
+      326.93,
+      324.89,
+      326.37,
+      327.73,
+      326.78,
+      324.58
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 323",
+    "ticker": "AMZ323",
+    "currentPrice": 297.11,
+    "percentChange1D": -2.37,
+    "sparkline": [
+      298.18,
+      296.37,
+      295.58,
+      297.1,
+      298.47,
+      298.77
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 324",
+    "ticker": "GOO324",
+    "currentPrice": 317.39,
+    "percentChange1D": -0.67,
+    "sparkline": [
+      316.94,
+      316.25,
+      319.28,
+      318.02,
+      315.64,
+      317.09
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 325",
+    "ticker": "MET325",
+    "currentPrice": 243.87,
+    "percentChange1D": 3.45,
+    "sparkline": [
+      242.37,
+      244.35,
+      242.22,
+      243.7,
+      244.26,
+      245.56
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 326",
+    "ticker": "TSL326",
+    "currentPrice": 372.63,
+    "percentChange1D": 0.29,
+    "sparkline": [
+      373.08,
+      373.84,
+      372.5,
+      371.16,
+      371.08,
+      372.11
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 327",
+    "ticker": "NVD327",
+    "currentPrice": 243.93,
+    "percentChange1D": -2.51,
+    "sparkline": [
+      243.97,
+      244.53,
+      245.04,
+      243.96,
+      245.66,
+      243.05
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 328",
+    "ticker": "BRK328",
+    "currentPrice": 117.52,
+    "percentChange1D": -3.93,
+    "sparkline": [
+      116.4,
+      118.58,
+      116.63,
+      118.52,
+      118.48,
+      116.89
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 329",
+    "ticker": "JPM329",
+    "currentPrice": 249.54,
+    "percentChange1D": 2.97,
+    "sparkline": [
+      250.13,
+      249.9,
+      249.01,
+      250.52,
+      249.03,
+      248.1
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 330",
+    "ticker": "JNJ330",
+    "currentPrice": 79.76,
+    "percentChange1D": 4.05,
+    "sparkline": [
+      80.41,
+      79.8,
+      78.15,
+      78.92,
+      78.9,
+      81.1
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 331",
+    "ticker": "AAP331",
+    "currentPrice": 108.3,
+    "percentChange1D": -3.88,
+    "sparkline": [
+      109.37,
+      107.7,
+      108.36,
+      106.41,
+      107.13,
+      106.81
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 332",
+    "ticker": "MSF332",
+    "currentPrice": 238.98,
+    "percentChange1D": -1.26,
+    "sparkline": [
+      237.17,
+      239.74,
+      238.91,
+      239.63,
+      238.17,
+      240.89
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 333",
+    "ticker": "AMZ333",
+    "currentPrice": 80.96,
+    "percentChange1D": 4.69,
+    "sparkline": [
+      81.05,
+      78.99,
+      79.8,
+      79.87,
+      80.82,
+      79.41
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 334",
+    "ticker": "GOO334",
+    "currentPrice": 455.43,
+    "percentChange1D": 4.37,
+    "sparkline": [
+      454.97,
+      456.62,
+      457.31,
+      456.51,
+      456.4,
+      455.74
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 335",
+    "ticker": "MET335",
+    "currentPrice": 180.82,
+    "percentChange1D": 4.7,
+    "sparkline": [
+      178.93,
+      180.45,
+      181.43,
+      181.37,
+      181.05,
+      181.01
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 336",
+    "ticker": "TSL336",
+    "currentPrice": 322.52,
+    "percentChange1D": 1.47,
+    "sparkline": [
+      321.0,
+      321.53,
+      324.38,
+      321.97,
+      323.81,
+      320.91
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 337",
+    "ticker": "NVD337",
+    "currentPrice": 442.71,
+    "percentChange1D": 3.56,
+    "sparkline": [
+      443.34,
+      442.7,
+      443.3,
+      441.21,
+      441.78,
+      441.57
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 338",
+    "ticker": "BRK338",
+    "currentPrice": 241.91,
+    "percentChange1D": 4.91,
+    "sparkline": [
+      240.02,
+      241.15,
+      243.53,
+      242.61,
+      242.16,
+      243.13
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 339",
+    "ticker": "JPM339",
+    "currentPrice": 108.09,
+    "percentChange1D": 2.27,
+    "sparkline": [
+      107.21,
+      108.66,
+      109.99,
+      109.95,
+      109.6,
+      108.86
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 340",
+    "ticker": "JNJ340",
+    "currentPrice": 81.92,
+    "percentChange1D": 2.5,
+    "sparkline": [
+      82.13,
+      81.3,
+      82.83,
+      80.28,
+      82.56,
+      82.86
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 341",
+    "ticker": "AAP341",
+    "currentPrice": 402.01,
+    "percentChange1D": 0.81,
+    "sparkline": [
+      400.49,
+      403.5,
+      402.98,
+      401.34,
+      400.24,
+      402.98
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 342",
+    "ticker": "MSF342",
+    "currentPrice": 410.52,
+    "percentChange1D": 4.71,
+    "sparkline": [
+      411.49,
+      411.39,
+      408.82,
+      411.32,
+      409.31,
+      409.19
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 343",
+    "ticker": "AMZ343",
+    "currentPrice": 417.61,
+    "percentChange1D": 3.71,
+    "sparkline": [
+      417.45,
+      415.88,
+      416.43,
+      415.68,
+      419.04,
+      416.71
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 344",
+    "ticker": "GOO344",
+    "currentPrice": 449.51,
+    "percentChange1D": -2.04,
+    "sparkline": [
+      450.87,
+      450.34,
+      450.17,
+      448.34,
+      447.74,
+      450.69
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 345",
+    "ticker": "MET345",
+    "currentPrice": 475.28,
+    "percentChange1D": -3.69,
+    "sparkline": [
+      476.6,
+      476.15,
+      474.86,
+      474.86,
+      474.9,
+      476.3
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 346",
+    "ticker": "TSL346",
+    "currentPrice": 247.62,
+    "percentChange1D": -1.93,
+    "sparkline": [
+      249.17,
+      247.46,
+      246.05,
+      248.12,
+      247.32,
+      245.65
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 347",
+    "ticker": "NVD347",
+    "currentPrice": 448.16,
+    "percentChange1D": 4.48,
+    "sparkline": [
+      449.27,
+      449.33,
+      449.82,
+      448.44,
+      446.66,
+      449.18
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 348",
+    "ticker": "BRK348",
+    "currentPrice": 386.86,
+    "percentChange1D": 1.15,
+    "sparkline": [
+      387.14,
+      387.76,
+      388.82,
+      387.36,
+      386.65,
+      387.87
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 349",
+    "ticker": "JPM349",
+    "currentPrice": 429.47,
+    "percentChange1D": 1.47,
+    "sparkline": [
+      428.68,
+      429.7,
+      431.1,
+      429.41,
+      430.3,
+      430.27
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 350",
+    "ticker": "JNJ350",
+    "currentPrice": 307.63,
+    "percentChange1D": -2.54,
+    "sparkline": [
+      308.0,
+      306.89,
+      309.19,
+      308.32,
+      308.19,
+      306.96
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 351",
+    "ticker": "AAP351",
+    "currentPrice": 135.72,
+    "percentChange1D": -3.2,
+    "sparkline": [
+      137.61,
+      136.41,
+      133.88,
+      134.75,
+      136.23,
+      135.81
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 352",
+    "ticker": "MSF352",
+    "currentPrice": 112.27,
+    "percentChange1D": -1.78,
+    "sparkline": [
+      113.37,
+      112.03,
+      112.86,
+      111.55,
+      111.0,
+      110.77
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 353",
+    "ticker": "AMZ353",
+    "currentPrice": 385.76,
+    "percentChange1D": -0.4,
+    "sparkline": [
+      384.4,
+      385.89,
+      385.08,
+      384.96,
+      384.07,
+      386.45
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 354",
+    "ticker": "GOO354",
+    "currentPrice": 449.18,
+    "percentChange1D": 2.55,
+    "sparkline": [
+      447.82,
+      450.77,
+      449.54,
+      450.72,
+      447.96,
+      449.97
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 355",
+    "ticker": "MET355",
+    "currentPrice": 123.43,
+    "percentChange1D": -2.64,
+    "sparkline": [
+      121.63,
+      122.21,
+      124.14,
+      122.39,
+      121.97,
+      123.51
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 356",
+    "ticker": "TSL356",
+    "currentPrice": 341.25,
+    "percentChange1D": 4.29,
+    "sparkline": [
+      341.96,
+      341.28,
+      341.67,
+      340.44,
+      342.92,
+      342.98
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 357",
+    "ticker": "NVD357",
+    "currentPrice": 185.19,
+    "percentChange1D": -1.68,
+    "sparkline": [
+      184.03,
+      183.37,
+      187.03,
+      186.82,
+      183.99,
+      183.99
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 358",
+    "ticker": "BRK358",
+    "currentPrice": 256.38,
+    "percentChange1D": -3.46,
+    "sparkline": [
+      254.76,
+      257.73,
+      257.87,
+      256.11,
+      257.75,
+      257.97
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 359",
+    "ticker": "JPM359",
+    "currentPrice": 87.08,
+    "percentChange1D": 1.74,
+    "sparkline": [
+      86.62,
+      86.14,
+      88.86,
+      88.31,
+      86.21,
+      87.79
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 360",
+    "ticker": "JNJ360",
+    "currentPrice": 388.95,
+    "percentChange1D": -2.16,
+    "sparkline": [
+      388.73,
+      390.25,
+      390.46,
+      389.27,
+      388.78,
+      389.52
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 361",
+    "ticker": "AAP361",
+    "currentPrice": 126.98,
+    "percentChange1D": -2.29,
+    "sparkline": [
+      127.56,
+      127.08,
+      126.05,
+      125.02,
+      126.53,
+      127.02
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 362",
+    "ticker": "MSF362",
+    "currentPrice": 458.88,
+    "percentChange1D": 1.78,
+    "sparkline": [
+      457.87,
+      458.82,
+      458.4,
+      458.12,
+      459.59,
+      460.77
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 363",
+    "ticker": "AMZ363",
+    "currentPrice": 288.61,
+    "percentChange1D": -0.55,
+    "sparkline": [
+      287.07,
+      287.67,
+      287.41,
+      289.21,
+      287.75,
+      288.52
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 364",
+    "ticker": "GOO364",
+    "currentPrice": 391.59,
+    "percentChange1D": -2.77,
+    "sparkline": [
+      393.08,
+      393.13,
+      392.34,
+      390.64,
+      392.57,
+      392.58
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 365",
+    "ticker": "MET365",
+    "currentPrice": 496.84,
+    "percentChange1D": -2.21,
+    "sparkline": [
+      498.2,
+      497.66,
+      495.8,
+      497.94,
+      498.36,
+      496.95
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 366",
+    "ticker": "TSL366",
+    "currentPrice": 183.52,
+    "percentChange1D": 4.64,
+    "sparkline": [
+      183.76,
+      181.76,
+      184.1,
+      183.33,
+      184.15,
+      182.57
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 367",
+    "ticker": "NVD367",
+    "currentPrice": 299.24,
+    "percentChange1D": -1.33,
+    "sparkline": [
+      299.3,
+      298.93,
+      301.08,
+      297.29,
+      299.55,
+      299.18
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 368",
+    "ticker": "BRK368",
+    "currentPrice": 435.85,
+    "percentChange1D": -4.49,
+    "sparkline": [
+      436.94,
+      436.74,
+      436.51,
+      437.68,
+      434.73,
+      434.62
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 369",
+    "ticker": "JPM369",
+    "currentPrice": 399.05,
+    "percentChange1D": -0.74,
+    "sparkline": [
+      400.91,
+      397.7,
+      398.57,
+      399.83,
+      399.45,
+      398.34
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 370",
+    "ticker": "JNJ370",
+    "currentPrice": 456.97,
+    "percentChange1D": 4.41,
+    "sparkline": [
+      455.91,
+      458.04,
+      457.82,
+      455.85,
+      458.84,
+      454.99
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 371",
+    "ticker": "AAP371",
+    "currentPrice": 390.95,
+    "percentChange1D": 0.55,
+    "sparkline": [
+      391.17,
+      390.19,
+      389.01,
+      392.72,
+      391.77,
+      392.62
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 372",
+    "ticker": "MSF372",
+    "currentPrice": 174.95,
+    "percentChange1D": -1.81,
+    "sparkline": [
+      174.83,
+      174.51,
+      173.44,
+      174.81,
+      174.43,
+      176.67
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 373",
+    "ticker": "AMZ373",
+    "currentPrice": 356.38,
+    "percentChange1D": 3.61,
+    "sparkline": [
+      356.06,
+      354.42,
+      355.6,
+      355.9,
+      355.39,
+      356.48
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 374",
+    "ticker": "GOO374",
+    "currentPrice": 455.05,
+    "percentChange1D": 4.15,
+    "sparkline": [
+      453.23,
+      456.92,
+      454.7,
+      453.24,
+      456.66,
+      455.42
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 375",
+    "ticker": "MET375",
+    "currentPrice": 390.56,
+    "percentChange1D": -4.67,
+    "sparkline": [
+      390.31,
+      392.14,
+      391.86,
+      389.87,
+      388.81,
+      388.69
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 376",
+    "ticker": "TSL376",
+    "currentPrice": 235.39,
+    "percentChange1D": -4.75,
+    "sparkline": [
+      233.48,
+      234.12,
+      235.19,
+      234.98,
+      234.56,
+      236.29
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 377",
+    "ticker": "NVD377",
+    "currentPrice": 243.88,
+    "percentChange1D": 1.2,
+    "sparkline": [
+      242.61,
+      245.36,
+      243.8,
+      245.71,
+      244.01,
+      243.84
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 378",
+    "ticker": "BRK378",
+    "currentPrice": 176.25,
+    "percentChange1D": -2.14,
+    "sparkline": [
+      177.2,
+      178.03,
+      175.46,
+      176.16,
+      175.13,
+      175.16
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 379",
+    "ticker": "JPM379",
+    "currentPrice": 460.06,
+    "percentChange1D": 0.41,
+    "sparkline": [
+      459.39,
+      461.98,
+      458.54,
+      460.97,
+      460.71,
+      461.26
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 380",
+    "ticker": "JNJ380",
+    "currentPrice": 302.91,
+    "percentChange1D": 3.59,
+    "sparkline": [
+      301.92,
+      301.15,
+      302.6,
+      303.18,
+      301.49,
+      301.1
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 381",
+    "ticker": "AAP381",
+    "currentPrice": 303.99,
+    "percentChange1D": 2.58,
+    "sparkline": [
+      302.68,
+      305.47,
+      302.47,
+      303.39,
+      303.53,
+      305.12
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 382",
+    "ticker": "MSF382",
+    "currentPrice": 359.08,
+    "percentChange1D": 4.61,
+    "sparkline": [
+      360.61,
+      359.47,
+      357.58,
+      358.21,
+      358.48,
+      357.82
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 383",
+    "ticker": "AMZ383",
+    "currentPrice": 243.73,
+    "percentChange1D": 0.79,
+    "sparkline": [
+      244.37,
+      242.87,
+      244.77,
+      244.2,
+      244.3,
+      241.96
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 384",
+    "ticker": "GOO384",
+    "currentPrice": 208.76,
+    "percentChange1D": 2.56,
+    "sparkline": [
+      210.56,
+      210.72,
+      210.1,
+      210.15,
+      209.04,
+      210.03
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 385",
+    "ticker": "MET385",
+    "currentPrice": 195.94,
+    "percentChange1D": 2.8,
+    "sparkline": [
+      194.05,
+      196.2,
+      197.45,
+      196.58,
+      196.54,
+      195.57
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 386",
+    "ticker": "TSL386",
+    "currentPrice": 254.31,
+    "percentChange1D": 0.55,
+    "sparkline": [
+      253.02,
+      254.22,
+      255.67,
+      253.97,
+      255.47,
+      254.23
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 387",
+    "ticker": "NVD387",
+    "currentPrice": 108.0,
+    "percentChange1D": -1.48,
+    "sparkline": [
+      106.4,
+      109.44,
+      107.47,
+      106.74,
+      109.45,
+      108.31
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 388",
+    "ticker": "BRK388",
+    "currentPrice": 291.32,
+    "percentChange1D": -2.03,
+    "sparkline": [
+      293.13,
+      291.34,
+      290.63,
+      290.39,
+      289.52,
+      291.67
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 389",
+    "ticker": "JPM389",
+    "currentPrice": 148.22,
+    "percentChange1D": -1.3,
+    "sparkline": [
+      147.87,
+      146.63,
+      148.4,
+      149.71,
+      148.77,
+      146.87
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 390",
+    "ticker": "JNJ390",
+    "currentPrice": 412.96,
+    "percentChange1D": -0.97,
+    "sparkline": [
+      412.42,
+      413.17,
+      413.95,
+      411.7,
+      414.44,
+      411.62
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 391",
+    "ticker": "AAP391",
+    "currentPrice": 59.08,
+    "percentChange1D": -1.55,
+    "sparkline": [
+      59.99,
+      58.58,
+      58.92,
+      58.46,
+      61.0,
+      60.51
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 392",
+    "ticker": "MSF392",
+    "currentPrice": 74.35,
+    "percentChange1D": 4.18,
+    "sparkline": [
+      76.02,
+      72.56,
+      74.31,
+      75.82,
+      73.15,
+      74.49
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 393",
+    "ticker": "AMZ393",
+    "currentPrice": 456.16,
+    "percentChange1D": -2.48,
+    "sparkline": [
+      454.23,
+      458.1,
+      454.78,
+      456.72,
+      457.48,
+      457.72
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 394",
+    "ticker": "GOO394",
+    "currentPrice": 445.01,
+    "percentChange1D": -1.35,
+    "sparkline": [
+      446.9,
+      444.12,
+      444.78,
+      443.46,
+      445.47,
+      443.5
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 395",
+    "ticker": "MET395",
+    "currentPrice": 358.01,
+    "percentChange1D": 0.42,
+    "sparkline": [
+      358.72,
+      356.11,
+      358.89,
+      358.83,
+      359.81,
+      358.16
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 396",
+    "ticker": "TSL396",
+    "currentPrice": 347.97,
+    "percentChange1D": 3.49,
+    "sparkline": [
+      348.07,
+      348.38,
+      347.55,
+      348.87,
+      349.2,
+      349.68
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 397",
+    "ticker": "NVD397",
+    "currentPrice": 235.12,
+    "percentChange1D": 3.91,
+    "sparkline": [
+      233.43,
+      233.45,
+      234.2,
+      236.6,
+      235.05,
+      234.38
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 398",
+    "ticker": "BRK398",
+    "currentPrice": 330.9,
+    "percentChange1D": -3.54,
+    "sparkline": [
+      332.18,
+      329.66,
+      331.22,
+      329.41,
+      330.67,
+      329.38
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 399",
+    "ticker": "JPM399",
+    "currentPrice": 109.27,
+    "percentChange1D": 1.57,
+    "sparkline": [
+      110.27,
+      109.54,
+      110.74,
+      110.19,
+      109.98,
+      110.43
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 400",
+    "ticker": "JNJ400",
+    "currentPrice": 121.69,
+    "percentChange1D": 2.9,
+    "sparkline": [
+      123.04,
+      122.84,
+      120.05,
+      122.2,
+      121.77,
+      121.18
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 401",
+    "ticker": "AAP401",
+    "currentPrice": 252.37,
+    "percentChange1D": -1.88,
+    "sparkline": [
+      253.63,
+      250.42,
+      251.96,
+      253.27,
+      252.45,
+      254.34
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 402",
+    "ticker": "MSF402",
+    "currentPrice": 127.52,
+    "percentChange1D": -2.77,
+    "sparkline": [
+      126.21,
+      129.14,
+      125.56,
+      128.87,
+      125.75,
+      126.43
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 403",
+    "ticker": "AMZ403",
+    "currentPrice": 87.14,
+    "percentChange1D": -1.76,
+    "sparkline": [
+      87.6,
+      85.84,
+      86.58,
+      87.23,
+      88.91,
+      87.78
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 404",
+    "ticker": "GOO404",
+    "currentPrice": 85.8,
+    "percentChange1D": -4.72,
+    "sparkline": [
+      86.75,
+      87.39,
+      83.86,
+      84.58,
+      87.56,
+      87.72
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 405",
+    "ticker": "MET405",
+    "currentPrice": 58.34,
+    "percentChange1D": -0.54,
+    "sparkline": [
+      56.6,
+      59.98,
+      60.26,
+      56.98,
+      60.02,
+      57.19
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 406",
+    "ticker": "TSL406",
+    "currentPrice": 428.39,
+    "percentChange1D": -2.32,
+    "sparkline": [
+      429.55,
+      428.95,
+      430.17,
+      428.75,
+      428.36,
+      429.76
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 407",
+    "ticker": "NVD407",
+    "currentPrice": 466.97,
+    "percentChange1D": 2.84,
+    "sparkline": [
+      465.71,
+      465.53,
+      465.38,
+      467.78,
+      466.03,
+      467.13
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 408",
+    "ticker": "BRK408",
+    "currentPrice": 125.1,
+    "percentChange1D": 0.6,
+    "sparkline": [
+      125.25,
+      126.54,
+      125.2,
+      123.78,
+      124.1,
+      123.78
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 409",
+    "ticker": "JPM409",
+    "currentPrice": 295.35,
+    "percentChange1D": 3.14,
+    "sparkline": [
+      296.16,
+      296.07,
+      294.41,
+      294.29,
+      293.65,
+      294.61
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 410",
+    "ticker": "JNJ410",
+    "currentPrice": 232.89,
+    "percentChange1D": -3.61,
+    "sparkline": [
+      233.19,
+      233.94,
+      234.74,
+      231.96,
+      233.34,
+      232.9
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 411",
+    "ticker": "AAP411",
+    "currentPrice": 191.76,
+    "percentChange1D": 0.59,
+    "sparkline": [
+      191.54,
+      192.66,
+      189.96,
+      193.13,
+      190.28,
+      191.07
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 412",
+    "ticker": "MSF412",
+    "currentPrice": 399.99,
+    "percentChange1D": -3.91,
+    "sparkline": [
+      400.4,
+      399.25,
+      398.56,
+      399.07,
+      400.39,
+      401.87
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 413",
+    "ticker": "AMZ413",
+    "currentPrice": 174.34,
+    "percentChange1D": -1.23,
+    "sparkline": [
+      174.8,
+      172.56,
+      172.92,
+      173.15,
+      173.77,
+      174.14
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 414",
+    "ticker": "GOO414",
+    "currentPrice": 317.49,
+    "percentChange1D": -4.82,
+    "sparkline": [
+      319.41,
+      317.19,
+      317.0,
+      315.52,
+      319.05,
+      316.59
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 415",
+    "ticker": "MET415",
+    "currentPrice": 186.13,
+    "percentChange1D": -2.08,
+    "sparkline": [
+      185.83,
+      186.2,
+      185.12,
+      185.21,
+      186.65,
+      186.27
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 416",
+    "ticker": "TSL416",
+    "currentPrice": 259.54,
+    "percentChange1D": -2.41,
+    "sparkline": [
+      260.03,
+      258.43,
+      259.82,
+      259.64,
+      260.2,
+      258.25
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 417",
+    "ticker": "NVD417",
+    "currentPrice": 98.46,
+    "percentChange1D": -3.57,
+    "sparkline": [
+      96.81,
+      99.73,
+      97.75,
+      100.3,
+      97.62,
+      98.87
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 418",
+    "ticker": "BRK418",
+    "currentPrice": 436.12,
+    "percentChange1D": 3.3,
+    "sparkline": [
+      434.93,
+      437.63,
+      437.15,
+      436.78,
+      435.38,
+      436.48
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 419",
+    "ticker": "JPM419",
+    "currentPrice": 247.47,
+    "percentChange1D": -1.33,
+    "sparkline": [
+      247.48,
+      246.66,
+      246.21,
+      247.16,
+      246.71,
+      245.95
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 420",
+    "ticker": "JNJ420",
+    "currentPrice": 146.25,
+    "percentChange1D": 2.22,
+    "sparkline": [
+      145.35,
+      147.41,
+      146.51,
+      148.08,
+      144.26,
+      146.52
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 421",
+    "ticker": "AAP421",
+    "currentPrice": 229.2,
+    "percentChange1D": 4.45,
+    "sparkline": [
+      228.98,
+      229.43,
+      230.6,
+      228.78,
+      230.14,
+      229.75
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 422",
+    "ticker": "MSF422",
+    "currentPrice": 312.35,
+    "percentChange1D": -4.82,
+    "sparkline": [
+      314.25,
+      313.24,
+      311.88,
+      312.77,
+      313.68,
+      311.81
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 423",
+    "ticker": "AMZ423",
+    "currentPrice": 453.47,
+    "percentChange1D": 3.1,
+    "sparkline": [
+      452.95,
+      452.68,
+      455.37,
+      452.89,
+      455.32,
+      454.01
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 424",
+    "ticker": "GOO424",
+    "currentPrice": 467.3,
+    "percentChange1D": 1.48,
+    "sparkline": [
+      468.34,
+      468.16,
+      467.07,
+      468.19,
+      468.54,
+      467.18
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 425",
+    "ticker": "MET425",
+    "currentPrice": 79.03,
+    "percentChange1D": 1.35,
+    "sparkline": [
+      77.75,
+      80.17,
+      79.44,
+      80.79,
+      81.01,
+      78.29
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 426",
+    "ticker": "TSL426",
+    "currentPrice": 481.13,
+    "percentChange1D": -0.92,
+    "sparkline": [
+      480.0,
+      482.57,
+      480.2,
+      480.41,
+      480.61,
+      479.79
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 427",
+    "ticker": "NVD427",
+    "currentPrice": 87.85,
+    "percentChange1D": 0.9,
+    "sparkline": [
+      88.24,
+      88.01,
+      87.01,
+      87.22,
+      88.56,
+      88.18
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 428",
+    "ticker": "BRK428",
+    "currentPrice": 186.42,
+    "percentChange1D": 0.32,
+    "sparkline": [
+      184.76,
+      184.48,
+      186.97,
+      184.99,
+      187.75,
+      186.28
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 429",
+    "ticker": "JPM429",
+    "currentPrice": 211.36,
+    "percentChange1D": -4.49,
+    "sparkline": [
+      212.42,
+      209.36,
+      210.97,
+      210.62,
+      210.31,
+      210.73
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 430",
+    "ticker": "JNJ430",
+    "currentPrice": 351.3,
+    "percentChange1D": 4.95,
+    "sparkline": [
+      349.53,
+      351.35,
+      352.21,
+      352.35,
+      350.85,
+      351.85
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 431",
+    "ticker": "AAP431",
+    "currentPrice": 384.52,
+    "percentChange1D": -3.13,
+    "sparkline": [
+      385.86,
+      383.75,
+      385.63,
+      384.2,
+      382.83,
+      386.01
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 432",
+    "ticker": "MSF432",
+    "currentPrice": 185.49,
+    "percentChange1D": -3.95,
+    "sparkline": [
+      185.98,
+      186.18,
+      183.77,
+      184.91,
+      184.23,
+      184.11
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 433",
+    "ticker": "AMZ433",
+    "currentPrice": 382.97,
+    "percentChange1D": 4.59,
+    "sparkline": [
+      381.34,
+      384.23,
+      382.7,
+      383.92,
+      384.37,
+      382.25
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 434",
+    "ticker": "GOO434",
+    "currentPrice": 161.44,
+    "percentChange1D": 3.83,
+    "sparkline": [
+      161.55,
+      160.98,
+      163.07,
+      159.51,
+      163.14,
+      163.11
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 435",
+    "ticker": "MET435",
+    "currentPrice": 442.65,
+    "percentChange1D": -4.48,
+    "sparkline": [
+      444.39,
+      442.42,
+      441.54,
+      440.89,
+      442.06,
+      442.08
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 436",
+    "ticker": "TSL436",
+    "currentPrice": 300.94,
+    "percentChange1D": -3.61,
+    "sparkline": [
+      302.54,
+      302.22,
+      302.49,
+      302.94,
+      300.57,
+      302.31
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 437",
+    "ticker": "NVD437",
+    "currentPrice": 78.96,
+    "percentChange1D": -3.88,
+    "sparkline": [
+      78.0,
+      79.66,
+      78.85,
+      80.13,
+      80.44,
+      77.04
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 438",
+    "ticker": "BRK438",
+    "currentPrice": 241.47,
+    "percentChange1D": 2.91,
+    "sparkline": [
+      243.38,
+      243.47,
+      242.86,
+      240.88,
+      242.46,
+      242.31
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 439",
+    "ticker": "JPM439",
+    "currentPrice": 400.07,
+    "percentChange1D": -1.11,
+    "sparkline": [
+      399.74,
+      401.27,
+      400.55,
+      398.96,
+      398.44,
+      398.37
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 440",
+    "ticker": "JNJ440",
+    "currentPrice": 488.77,
+    "percentChange1D": -1.1,
+    "sparkline": [
+      488.94,
+      488.87,
+      488.35,
+      490.62,
+      487.22,
+      487.15
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 441",
+    "ticker": "AAP441",
+    "currentPrice": 386.25,
+    "percentChange1D": -0.89,
+    "sparkline": [
+      384.82,
+      387.7,
+      387.65,
+      385.19,
+      386.82,
+      386.97
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 442",
+    "ticker": "MSF442",
+    "currentPrice": 310.5,
+    "percentChange1D": -3.91,
+    "sparkline": [
+      309.14,
+      311.67,
+      310.92,
+      310.79,
+      312.01,
+      312.26
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 443",
+    "ticker": "AMZ443",
+    "currentPrice": 230.8,
+    "percentChange1D": 3.34,
+    "sparkline": [
+      232.04,
+      231.18,
+      232.07,
+      232.77,
+      229.55,
+      232.61
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 444",
+    "ticker": "GOO444",
+    "currentPrice": 309.84,
+    "percentChange1D": 3.87,
+    "sparkline": [
+      308.37,
+      311.16,
+      308.8,
+      310.44,
+      308.88,
+      308.95
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 445",
+    "ticker": "MET445",
+    "currentPrice": 304.21,
+    "percentChange1D": 3.14,
+    "sparkline": [
+      305.56,
+      302.76,
+      305.64,
+      305.7,
+      305.0,
+      302.28
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 446",
+    "ticker": "TSL446",
+    "currentPrice": 146.32,
+    "percentChange1D": 2.64,
+    "sparkline": [
+      144.6,
+      145.03,
+      144.96,
+      147.52,
+      147.69,
+      146.65
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 447",
+    "ticker": "NVD447",
+    "currentPrice": 385.23,
+    "percentChange1D": -4.97,
+    "sparkline": [
+      384.92,
+      386.95,
+      384.42,
+      385.6,
+      386.34,
+      386.02
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 448",
+    "ticker": "BRK448",
+    "currentPrice": 390.84,
+    "percentChange1D": -2.94,
+    "sparkline": [
+      391.99,
+      392.21,
+      390.66,
+      390.68,
+      391.5,
+      392.57
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 449",
+    "ticker": "JPM449",
+    "currentPrice": 69.61,
+    "percentChange1D": 3.5,
+    "sparkline": [
+      69.9,
+      69.74,
+      70.52,
+      67.74,
+      68.21,
+      68.41
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 450",
+    "ticker": "JNJ450",
+    "currentPrice": 253.1,
+    "percentChange1D": -3.12,
+    "sparkline": [
+      251.9,
+      254.5,
+      254.8,
+      254.06,
+      253.41,
+      253.81
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 451",
+    "ticker": "AAP451",
+    "currentPrice": 269.88,
+    "percentChange1D": 2.37,
+    "sparkline": [
+      270.47,
+      268.53,
+      270.11,
+      271.73,
+      270.0,
+      267.94
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 452",
+    "ticker": "MSF452",
+    "currentPrice": 369.3,
+    "percentChange1D": -2.78,
+    "sparkline": [
+      371.14,
+      371.25,
+      368.02,
+      369.95,
+      370.88,
+      368.87
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 453",
+    "ticker": "AMZ453",
+    "currentPrice": 146.71,
+    "percentChange1D": 3.01,
+    "sparkline": [
+      146.81,
+      148.58,
+      145.51,
+      148.58,
+      146.53,
+      147.27
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 454",
+    "ticker": "GOO454",
+    "currentPrice": 343.54,
+    "percentChange1D": -2.18,
+    "sparkline": [
+      342.68,
+      342.66,
+      343.41,
+      345.43,
+      345.41,
+      342.92
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 455",
+    "ticker": "MET455",
+    "currentPrice": 468.77,
+    "percentChange1D": -2.8,
+    "sparkline": [
+      469.87,
+      469.33,
+      469.56,
+      468.14,
+      469.13,
+      470.5
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 456",
+    "ticker": "TSL456",
+    "currentPrice": 91.68,
+    "percentChange1D": 4.77,
+    "sparkline": [
+      92.1,
+      90.51,
+      92.58,
+      91.28,
+      91.9,
+      92.61
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 457",
+    "ticker": "NVD457",
+    "currentPrice": 318.36,
+    "percentChange1D": -4.64,
+    "sparkline": [
+      317.65,
+      319.66,
+      316.91,
+      317.68,
+      317.44,
+      317.57
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 458",
+    "ticker": "BRK458",
+    "currentPrice": 113.71,
+    "percentChange1D": 2.24,
+    "sparkline": [
+      111.91,
+      112.83,
+      112.62,
+      114.63,
+      115.13,
+      112.53
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 459",
+    "ticker": "JPM459",
+    "currentPrice": 168.59,
+    "percentChange1D": -4.74,
+    "sparkline": [
+      169.11,
+      166.91,
+      167.85,
+      169.27,
+      168.28,
+      170.25
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 460",
+    "ticker": "JNJ460",
+    "currentPrice": 255.6,
+    "percentChange1D": 1.61,
+    "sparkline": [
+      255.38,
+      254.06,
+      256.57,
+      256.54,
+      254.36,
+      256.27
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 461",
+    "ticker": "AAP461",
+    "currentPrice": 375.71,
+    "percentChange1D": 3.31,
+    "sparkline": [
+      376.13,
+      376.59,
+      375.57,
+      376.11,
+      376.76,
+      373.93
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 462",
+    "ticker": "MSF462",
+    "currentPrice": 329.11,
+    "percentChange1D": -1.56,
+    "sparkline": [
+      327.14,
+      330.54,
+      327.27,
+      329.3,
+      327.65,
+      328.13
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 463",
+    "ticker": "AMZ463",
+    "currentPrice": 179.16,
+    "percentChange1D": -1.74,
+    "sparkline": [
+      178.11,
+      177.96,
+      181.03,
+      178.18,
+      179.93,
+      178.88
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 464",
+    "ticker": "GOO464",
+    "currentPrice": 492.41,
+    "percentChange1D": -2.35,
+    "sparkline": [
+      490.66,
+      491.01,
+      493.77,
+      490.45,
+      491.75,
+      494.27
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 465",
+    "ticker": "MET465",
+    "currentPrice": 348.69,
+    "percentChange1D": 2.45,
+    "sparkline": [
+      347.46,
+      346.76,
+      349.5,
+      349.48,
+      347.0,
+      348.44
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 466",
+    "ticker": "TSL466",
+    "currentPrice": 400.86,
+    "percentChange1D": 4.09,
+    "sparkline": [
+      399.27,
+      400.49,
+      401.79,
+      399.85,
+      401.38,
+      401.81
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 467",
+    "ticker": "NVD467",
+    "currentPrice": 397.07,
+    "percentChange1D": -0.21,
+    "sparkline": [
+      395.61,
+      397.21,
+      396.64,
+      398.04,
+      399.01,
+      396.56
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 468",
+    "ticker": "BRK468",
+    "currentPrice": 326.36,
+    "percentChange1D": 1.07,
+    "sparkline": [
+      326.84,
+      326.87,
+      326.15,
+      327.99,
+      326.07,
+      325.22
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 469",
+    "ticker": "JPM469",
+    "currentPrice": 345.77,
+    "percentChange1D": -0.79,
+    "sparkline": [
+      346.83,
+      346.66,
+      344.02,
+      344.07,
+      346.58,
+      346.82
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 470",
+    "ticker": "JNJ470",
+    "currentPrice": 104.6,
+    "percentChange1D": -3.9,
+    "sparkline": [
+      104.91,
+      103.34,
+      103.35,
+      104.41,
+      105.18,
+      104.18
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 471",
+    "ticker": "AAP471",
+    "currentPrice": 427.62,
+    "percentChange1D": -4.66,
+    "sparkline": [
+      427.93,
+      427.46,
+      426.67,
+      427.49,
+      427.78,
+      427.9
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 472",
+    "ticker": "MSF472",
+    "currentPrice": 409.62,
+    "percentChange1D": -3.23,
+    "sparkline": [
+      410.12,
+      409.37,
+      411.51,
+      411.12,
+      408.7,
+      408.65
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 473",
+    "ticker": "AMZ473",
+    "currentPrice": 247.01,
+    "percentChange1D": 0.93,
+    "sparkline": [
+      249.01,
+      248.42,
+      246.29,
+      248.49,
+      245.96,
+      245.26
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 474",
+    "ticker": "GOO474",
+    "currentPrice": 158.14,
+    "percentChange1D": -2.18,
+    "sparkline": [
+      159.44,
+      157.38,
+      157.55,
+      157.33,
+      158.12,
+      157.47
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 475",
+    "ticker": "MET475",
+    "currentPrice": 469.72,
+    "percentChange1D": -1.0,
+    "sparkline": [
+      468.24,
+      470.61,
+      470.18,
+      470.11,
+      470.79,
+      469.58
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 476",
+    "ticker": "TSL476",
+    "currentPrice": 188.37,
+    "percentChange1D": 0.04,
+    "sparkline": [
+      189.71,
+      186.57,
+      188.22,
+      186.68,
+      189.58,
+      187.43
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 477",
+    "ticker": "NVD477",
+    "currentPrice": 369.56,
+    "percentChange1D": 3.73,
+    "sparkline": [
+      367.88,
+      371.14,
+      371.31,
+      371.29,
+      368.36,
+      370.79
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 478",
+    "ticker": "BRK478",
+    "currentPrice": 300.1,
+    "percentChange1D": 4.29,
+    "sparkline": [
+      300.3,
+      298.63,
+      301.48,
+      300.62,
+      299.03,
+      298.26
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 479",
+    "ticker": "JPM479",
+    "currentPrice": 59.94,
+    "percentChange1D": -0.2,
+    "sparkline": [
+      60.78,
+      58.78,
+      58.61,
+      58.07,
+      58.36,
+      61.33
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 480",
+    "ticker": "JNJ480",
+    "currentPrice": 314.02,
+    "percentChange1D": 4.74,
+    "sparkline": [
+      312.59,
+      314.63,
+      315.94,
+      314.89,
+      315.28,
+      315.87
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 481",
+    "ticker": "AAP481",
+    "currentPrice": 279.12,
+    "percentChange1D": -3.14,
+    "sparkline": [
+      278.95,
+      278.95,
+      280.92,
+      280.21,
+      278.75,
+      280.9
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 482",
+    "ticker": "MSF482",
+    "currentPrice": 58.93,
+    "percentChange1D": 0.88,
+    "sparkline": [
+      57.33,
+      57.6,
+      59.34,
+      59.98,
+      59.69,
+      58.1
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 483",
+    "ticker": "AMZ483",
+    "currentPrice": 82.19,
+    "percentChange1D": -3.82,
+    "sparkline": [
+      83.48,
+      80.73,
+      83.87,
+      83.24,
+      84.04,
+      81.01
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 484",
+    "ticker": "GOO484",
+    "currentPrice": 205.63,
+    "percentChange1D": 0.99,
+    "sparkline": [
+      203.66,
+      204.71,
+      203.85,
+      204.58,
+      204.9,
+      207.61
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 485",
+    "ticker": "MET485",
+    "currentPrice": 107.26,
+    "percentChange1D": 0.87,
+    "sparkline": [
+      108.23,
+      108.48,
+      107.74,
+      106.23,
+      108.83,
+      107.16
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 486",
+    "ticker": "TSL486",
+    "currentPrice": 294.57,
+    "percentChange1D": 4.66,
+    "sparkline": [
+      295.9,
+      295.49,
+      296.48,
+      294.93,
+      293.88,
+      292.73
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 487",
+    "ticker": "NVD487",
+    "currentPrice": 233.3,
+    "percentChange1D": 4.54,
+    "sparkline": [
+      234.6,
+      233.98,
+      234.65,
+      233.67,
+      233.09,
+      232.11
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 488",
+    "ticker": "BRK488",
+    "currentPrice": 289.17,
+    "percentChange1D": 2.96,
+    "sparkline": [
+      289.82,
+      288.03,
+      290.05,
+      290.9,
+      290.83,
+      287.19
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 489",
+    "ticker": "JPM489",
+    "currentPrice": 498.67,
+    "percentChange1D": 4.54,
+    "sparkline": [
+      497.02,
+      499.91,
+      500.16,
+      498.34,
+      500.33,
+      497.6
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 490",
+    "ticker": "JNJ490",
+    "currentPrice": 472.2,
+    "percentChange1D": -0.9,
+    "sparkline": [
+      472.5,
+      471.94,
+      471.98,
+      471.96,
+      473.4,
+      472.89
+    ]
+  },
+  {
+    "companyName": "Apple Inc. 491",
+    "ticker": "AAP491",
+    "currentPrice": 378.61,
+    "percentChange1D": -1.88,
+    "sparkline": [
+      377.03,
+      378.37,
+      378.94,
+      380.61,
+      378.61,
+      378.98
+    ]
+  },
+  {
+    "companyName": "Microsoft Corporation 492",
+    "ticker": "MSF492",
+    "currentPrice": 134.22,
+    "percentChange1D": -1.1,
+    "sparkline": [
+      132.4,
+      135.63,
+      133.12,
+      135.77,
+      133.12,
+      135.63
+    ]
+  },
+  {
+    "companyName": "Amazon.com Inc. 493",
+    "ticker": "AMZ493",
+    "currentPrice": 90.64,
+    "percentChange1D": -1.94,
+    "sparkline": [
+      88.77,
+      90.22,
+      90.97,
+      91.3,
+      91.01,
+      90.78
+    ]
+  },
+  {
+    "companyName": "Alphabet Inc. (Google) 494",
+    "ticker": "GOO494",
+    "currentPrice": 444.86,
+    "percentChange1D": -0.96,
+    "sparkline": [
+      444.73,
+      445.82,
+      443.95,
+      444.81,
+      442.99,
+      446.67
+    ]
+  },
+  {
+    "companyName": "Meta Platforms, Inc. 495",
+    "ticker": "MET495",
+    "currentPrice": 494.25,
+    "percentChange1D": -0.69,
+    "sparkline": [
+      495.85,
+      494.44,
+      495.96,
+      493.41,
+      493.38,
+      492.89
+    ]
+  },
+  {
+    "companyName": "Tesla Inc. 496",
+    "ticker": "TSL496",
+    "currentPrice": 342.9,
+    "percentChange1D": 0.89,
+    "sparkline": [
+      341.92,
+      341.42,
+      343.63,
+      343.64,
+      342.85,
+      341.26
+    ]
+  },
+  {
+    "companyName": "NVIDIA Corporation 497",
+    "ticker": "NVD497",
+    "currentPrice": 422.53,
+    "percentChange1D": 0.84,
+    "sparkline": [
+      423.64,
+      422.71,
+      422.41,
+      423.81,
+      423.34,
+      421.85
+    ]
+  },
+  {
+    "companyName": "Berkshire Hathaway Inc. 498",
+    "ticker": "BRK498",
+    "currentPrice": 133.53,
+    "percentChange1D": 1.69,
+    "sparkline": [
+      135.32,
+      133.38,
+      133.06,
+      133.14,
+      133.19,
+      134.61
+    ]
+  },
+  {
+    "companyName": "JPMorgan Chase & Co. 499",
+    "ticker": "JPM499",
+    "currentPrice": 141.54,
+    "percentChange1D": 2.52,
+    "sparkline": [
+      142.23,
+      142.44,
+      142.88,
+      139.59,
+      141.95,
+      139.79
+    ]
+  },
+  {
+    "companyName": "Johnson & Johnson 500",
+    "ticker": "JNJ500",
+    "currentPrice": 415.04,
+    "percentChange1D": 3.88,
+    "sparkline": [
+      415.25,
+      413.27,
+      413.3,
+      416.22,
+      413.53,
+      415.56
+    ]
+  }
+]
